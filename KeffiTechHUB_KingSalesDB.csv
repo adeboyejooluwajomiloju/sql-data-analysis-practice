@@ -1,0 +1,1501 @@
+Sales_ID,Sales_Date,Customer_Name,Gender,Country,Category,Product,Quantity,Unit_Price,Payment method
+S10001,2025-02-25,Samuel Obi,Male,Ghana,Electronics,Laptop,2,450000,Cash
+S10002,2025-08-26,Grace Musa,Male,Ghana,Furniture,Office Chair,9,95000,Cash
+S10003,2025-02-10,Joy Emmanuel,Female,Nigeria,Clothing,Jacket,3,70000,Mobile Money
+S10004,2025-01-07,Esther Eze,Female,Nigeria,Groceries,Sugar,2,18000,Mobile Money
+S10005,2025-12-02,Emeka Nwosu,Female,Nigeria,Electronics,Tablet,8,180000,Cash
+S10006,2025-06-15,Emeka Nwosu,Female,United Kingdom,Furniture,Office Chair,4,95000,Cash
+S10007,2025-07-27,Grace Musa,Male,Nigeria,Electronics,Smartphone,7,280000,Bank Transfer
+S10008,2025-11-17,John Williams,Female,Ghana,Furniture,Bookshelf,5,85000,Cash
+S10009,2025-04-04,Joy Emmanuel,Female,Kenya,Clothing,Jeans,9,28000,Card
+S10010,2025-07-24,David Okoro,Female,South Africa,Groceries,Rice,5,85000,Cash
+S10011,2025-04-03,Anthony Brown,Female,United States,Clothing,Sneakers,8,55000,Card
+S10012,2025-06-28,Victor Chukwu,Female,United States,Groceries,Cooking Oil,10,32000,Mobile Money
+S10013,2025-11-01,Mary Johnson,Female,Nigeria,Furniture,Bookshelf,1,85000,Cash
+S10014,2025-04-02,Emeka Nwosu,Male,South Africa,Clothing,Jeans,7,28000,Mobile Money
+S10015,2025-05-22,Victor Chukwu,Female,United States,Groceries,Rice,6,85000,Cash
+S10016,2025-05-28,Joy Emmanuel,Male,United States,Groceries,Cereal,5,9500,Card
+S10017,2025-12-18,Emeka Nwosu,Male,Ghana,Electronics,Tablet,6,180000,Card
+S10018,2025-11-09,Aisha Bello,Male,Kenya,Electronics,Tablet,5,180000,Card
+S10019,2025-02-09,Grace Musa,Female,Nigeria,Electronics,Smartphone,9,280000,Card
+S10020,2025-11-24,Fatima Ibrahim,Female,Ghana,Clothing,Jacket,9,70000,Card
+S10021,2025-12-05,Joy Emmanuel,Female,Nigeria,Groceries,Cereal,4,9500,Card
+S10022,2025-06-24,Ruth Adams,Male,United Kingdom,Electronics,Tablet,4,180000,Cash
+S10023,2025-06-04,Grace Musa,Male,Kenya,Electronics,Laptop,2,450000,Card
+S10024,2025-02-04,Victor Chukwu,Male,United States,Groceries,Cereal,10,9500,Mobile Money
+S10025,2025-05-11,Esther Eze,Male,Nigeria,Clothing,Jacket,7,70000,Bank Transfer
+S10026,2025-12-01,David Okoro,Male,Nigeria,Furniture,Table,7,120000,Bank Transfer
+S10027,2025-05-11,Esther Eze,Female,Ghana,Electronics,Smartphone,7,280000,Card
+S10028,2025-08-06,Grace Musa,Female,United Kingdom,Groceries,Cereal,2,9500,Cash
+S10029,2025-09-17,Ibrahim Yusuf,Female,South Africa,Electronics,Laptop,8,450000,Card
+S10030,2025-04-27,Sarah Ahmed,Male,South Africa,,Office Chair,5,95000,Mobile Money
+S10031,2025-03-22,Mary Johnson,Male,Kenya,Groceries,Cereal,4,9500,Cash
+S10032,2025-06-22,David Okoro,Female,United Kingdom,Electronics,Tablet,9,180000,Card
+S10033,2025-06-27,Grace Musa,Male,United States,Electronics,Laptop,4,450000,Mobile Money
+S10034,2025-04-23,Emeka Nwosu,Male,South Africa,Electronics,Smartphone,10,280000,Bank Transfer
+S10035,2025-07-23,Samuel Obi,Female,South Africa,Groceries,Cooking Oil,3,32000,Bank Transfer
+S10036,2025-08-21,Aisha Bello,Female,United Kingdom,Furniture,Bookshelf,10,85000,Cash
+S10037,2025-07-15,Fatima Ibrahim,Male,Kenya,Electronics,Smartphone,2,280000,Card
+S10038,2025-03-25,Joy Emmanuel,Female,United Kingdom,Groceries,Sugar,9,18000,Cash
+S10039,2025-08-28,Fatima Ibrahim,Male,Nigeria,Groceries,Rice,9,85000,Card
+S10040,2025-07-11,Blessing Okafor,Male,United States,Groceries,Sugar,5,18000,Mobile Money
+S10041,2025-06-11,Peter Osei,Female,Nigeria,Groceries,Rice,1,85000,Bank Transfer
+S10042,2025-11-11,Joy Emmanuel,Female,United Kingdom,Clothing,Sneakers,1,55000,Cash
+S10043,2025-03-05,John Williams,Male,South Africa,Electronics,Smartphone,3,280000,Cash
+S10044,2025-04-09,John Williams,Male,United States,Groceries,Sugar,4,18000,Cash
+S10045,2025-02-01,Samuel Obi,Male,Ghana,Groceries,Cereal,7,9500,Cash
+S10046,2025-06-16,Samuel Obi,Female,Ghana,Clothing,Sneakers,2,55000,Mobile Money
+S10047,2025-09-01,Esther Eze,Female,Kenya,Electronics,Headphones,5,45000,Card
+S10048,2025-05-13,Sarah Ahmed,Female,Kenya,Clothing,T-Shirt,2,12000,Bank Transfer
+S10049,2025-09-26,Aisha Bello,Male,Kenya,Groceries,Cereal,3,9500,Bank Transfer
+S10050,2025-02-20,John Williams,Female,South Africa,Electronics,Laptop,10,450000,Cash
+S10051,2025-05-21,David Okoro,Female,Nigeria,Furniture,Desk,9,150000,Card
+S10052,2025-08-01,Blessing Okafor,Female,United States,Groceries,Cereal,2,9500,Bank Transfer
+S10053,2025-07-17,Sarah Ahmed,Female,United Kingdom,Groceries,Cereal,3,9500,Card
+S10054,2025-10-18,Emeka Nwosu,Female,South Africa,Furniture,Table,9,120000,Cash
+S10055,2025-02-15,Peter Osei,Female,South Africa,Groceries,Sugar,8,18000,Mobile Money
+S10056,2025-04-01,Grace Musa,Female,United Kingdom,Clothing,Jacket,10,70000,Bank Transfer
+S10057,2025-05-20,Samuel Obi,Male,Ghana,Electronics,Smartphone,1,280000,Cash
+S10058,2025-10-29,Joy Emmanuel,Female,United States,Clothing,Jacket,10,70000,Card
+S10059,2025-02-07,Samuel Obi,Male,United States,Furniture,Table,1,120000,Cash
+S10060,2025-02-10,Hauwa Sule,Female,Nigeria,Furniture,Desk,9,150000,Card
+S10061,2025-11-28,Joy Emmanuel,Female,South Africa,Electronics,Headphones,10,45000,Mobile Money
+S10062,2025-11-10,Joy Emmanuel,Female,Ghana,Furniture,Desk,5,150000,Mobile Money
+S10063,2025-10-15,Grace Musa,Female,Ghana,Clothing,Sneakers,5,55000,Bank Transfer
+S10064,2025-09-15,Mary Johnson,Male,South Africa,Groceries,Rice,3,85000,Card
+S10065,2025-08-03,Blessing Okafor,Female,South Africa,Electronics,Headphones,1,45000,Card
+S10066,2025-02-04,Ruth Adams,Female,South Africa,Furniture,Table,1,120000,Bank Transfer
+S10067,2025-09-09,Victor Chukwu,Male,South Africa,Groceries,Cereal,4,9500,Bank Transfer
+S10068,2025-04-28,Sarah Ahmed,Female,United States,Furniture,Table,7,120000,Card
+S10069,2025-04-22,Sarah Ahmed,Male,Nigeria,Furniture,Desk,7,150000,Card
+S10070,2025-01-19,Fatima Ibrahim,Female,Kenya,Furniture,Desk,4,150000,Mobile Money
+S10071,2025-03-01,Fatima Ibrahim,Female,Kenya,Groceries,Sugar,2,18000,Mobile Money
+S10072,2025-06-05,Samuel Obi,Male,United States,Electronics,Laptop,1,450000,Cash
+S10073,2025-10-29,Emeka Nwosu,Male,Ghana,Clothing,Jeans,3,28000,Mobile Money
+S10074,2025-11-19,Fatima Ibrahim,Female,Ghana,Electronics,Smartphone,10,280000,Cash
+S10075,2025-09-17,Ruth Adams,Male,Kenya,Clothing,Sneakers,10,55000,Mobile Money
+S10076,2025-12-06,Ruth Adams,Male,Nigeria,Furniture,Desk,5,150000,Cash
+S10077,2025-02-16,Peter Osei,Female,Nigeria,Electronics,Tablet,9,180000,Bank Transfer
+S10078,2025-10-03,Daniel Adeyemi,Female,Kenya,Electronics,Headphones,8,45000,Card
+S10079,2025-01-15,Fatima Ibrahim,Female,South Africa,Furniture,Desk,7,150000,Bank Transfer
+S10080,2025-10-27,Fatima Ibrahim,Female,Ghana,Groceries,Cooking Oil,8,32000,Mobile Money
+S10081,2025-11-17,Blessing Okafor,Male,South Africa,Groceries,Rice,4,85000,Bank Transfer
+S10082,2025-03-03,Emeka Nwosu,Female,United Kingdom,Groceries,Sugar,1,18000,Card
+S10083,2025-11-09,Anthony Brown,Male,United States,Electronics,Smartphone,8,280000,Mobile Money
+S10084,2025-03-08,Michael James,Male,South Africa,Furniture,Office Chair,4,95000,Bank Transfer
+S10085,2025-06-22,John Williams,Female,United States,Groceries,Cereal,9,9500,Bank Transfer
+S10086,2025-08-20,Michael James,Female,Ghana,Groceries,Cereal,2,9500,Card
+S10087,2025-01-08,Esther Eze,Male,United States,Groceries,Rice,8,85000,Bank Transfer
+S10088,2025-03-08,Michael James,Male,Kenya,Groceries,Rice,3,85000,Bank Transfer
+S10089,2025-01-15,David Okoro,Male,United Kingdom,Electronics,Smartphone,5,280000,Card
+S10090,2025-01-03,Ruth Adams,Female,South Africa,Furniture,Office Chair,8,95000,Mobile Money
+S10091,2025-11-18,Fatima Ibrahim,Female,Nigeria,Groceries,Cooking Oil,2,32000,Mobile Money
+S10092,2025-06-21,Mary Johnson,Male,United Kingdom,Furniture,Office Chair,5,95000,Cash
+S10093,2025-11-21,Emeka Nwosu,Male,United Kingdom,Clothing,T-Shirt,7,12000,Mobile Money
+S10094,2025-07-10,Michael James,Male,United Kingdom,Furniture,Bookshelf,2,85000,Card
+S10095,2025-09-20,Ibrahim Yusuf,Male,Ghana,Clothing,Sneakers,9,55000,Cash
+S10096,2025-05-27,Joy Emmanuel,Female,Kenya,Clothing,T-Shirt,1,12000,Card
+S10097,2025-09-14,Grace Musa,Male,Kenya,Groceries,Sugar,10,18000,Card
+S10098,2025-07-16,Mary Johnson,Female,Ghana,Furniture,Office Chair,2,95000,Cash
+S10099,2025-09-04,Joy Emmanuel,Male,South Africa,Clothing,Sneakers,5,55000,Mobile Money
+S10100,2025-08-25,Grace Musa,Male,South Africa,Groceries,Cereal,6,9500,Bank Transfer
+S10101,2025-04-16,Ruth Adams,Male,United States,Electronics,Laptop,5,450000,Cash
+S10102,2025-07-14,Joy Emmanuel,Female,Ghana,Clothing,Jacket,10,70000,Mobile Money
+S10103,2025-08-25,John Williams,Female,Kenya,Furniture,Office Chair,6,95000,Cash
+S10104,2025-04-06,Anthony Brown,Female,United States,Clothing,Sneakers,7,55000,Cash
+S10105,2025-09-02,Fatima Ibrahim,Female,Nigeria,Furniture,Office Chair,7,95000,Cash
+S10106,2025-05-18,Esther Eze,Female,United Kingdom,Furniture,Table,8,120000,Mobile Money
+S10107,2025-05-04,Victor Chukwu,Male,Kenya,Electronics,Smartphone,8,280000,Mobile Money
+S10108,2025-11-07,Ibrahim Yusuf,Female,United Kingdom,Electronics,Laptop,1,450000,Mobile Money
+S10109,2025-01-13,Joy Emmanuel,Male,United States,Electronics,Smartphone,3,280000,Mobile Money
+S10110,2025-09-04,Anthony Brown,Female,Ghana,Groceries,Sugar,8,18000,Card
+S10111,2025-12-25,Mary Johnson,Male,Kenya,Furniture,Desk,7,150000,Bank Transfer
+S10112,2025-05-14,Michael James,Female,Ghana,Groceries,Rice,8,85000,Mobile Money
+S10113,2025-11-24,Joy Emmanuel,Female,Ghana,Groceries,Sugar,4,18000,Mobile Money
+S10114,2025-12-08,Blessing Okafor,Female,United States,Clothing,Jacket,7,70000,Mobile Money
+S10115,2025-10-29,Mary Johnson,Female,Nigeria,Clothing,Jacket,8,70000,Cash
+S10116,2025-10-13,Peter Osei,Male,Nigeria,Furniture,Office Chair,8,95000,Bank Transfer
+S10117,2025-03-20,Blessing Okafor,Female,Kenya,Groceries,Cereal,8,9500,Cash
+S10118,2025-04-20,Samuel Obi,Male,South Africa,Electronics,Smartphone,2,280000,Cash
+S10119,2025-07-05,Aisha Bello,Male,Kenya,Furniture,Desk,1,150000,Bank Transfer
+S10120,2025-12-05,Mary Johnson,Male,United Kingdom,Groceries,Sugar,7,18000,Card
+S10121,2025-12-05,Emeka Nwosu,Female,United Kingdom,Clothing,Jeans,4,28000,Mobile Money
+S10122,2025-04-29,Fatima Ibrahim,Female,Kenya,Clothing,Jeans,1,28000,Mobile Money
+S10123,2025-02-19,Joy Emmanuel,Female,United Kingdom,Groceries,Cooking Oil,5,32000,Mobile Money
+S10124,2025-02-16,Esther Eze,Female,South Africa,Groceries,Cereal,2,9500,Card
+S10125,2025-06-09,Michael James,Male,United States,Furniture,Bookshelf,7,85000,Bank Transfer
+S10126,2025-09-12,Michael James,Male,United Kingdom,Electronics,Laptop,,450000,Card
+S10127,2025-08-08,Daniel Adeyemi,Male,Kenya,Clothing,Sneakers,8,55000,Cash
+S10128,2025-03-13,Michael James,Female,United States,Groceries,Cooking Oil,7,32000,Card
+S10129,2025-12-08,Hauwa Sule,Female,Ghana,Clothing,Jeans,5,28000,Mobile Money
+S10130,2025-05-11,Joy Emmanuel,Male,Ghana,Groceries,Sugar,4,18000,Mobile Money
+S10131,2025-08-16,Aisha Bello,Female,United Kingdom,Groceries,Rice,2,85000,Mobile Money
+S10132,2025-03-11,John Williams,Male,United States,Groceries,Sugar,4,18000,Mobile Money
+S10133,2025-05-09,Grace Musa,Female,United States,Electronics,Tablet,5,180000,Mobile Money
+S10134,2025-12-30,David Okoro,Female,South Africa,Electronics,Smartphone,,280000,Cash
+S10135,2025-11-07,Joy Emmanuel,Female,United States,Clothing,Jeans,9,28000,Mobile Money
+S10136,2025-08-08,Anthony Brown,Female,Kenya,Clothing,Jacket,1,70000,Bank Transfer
+S10137,2025-05-19,Samuel Obi,Female,Nigeria,Clothing,Jacket,6,70000,Bank Transfer
+S10138,2025-07-02,Esther Eze,Male,South Africa,Electronics,Headphones,2,45000,Card
+S10139,2025-05-04,Samuel Obi,Male,United Kingdom,Electronics,Laptop,4,450000,Cash
+S10140,2025-10-21,Blessing Okafor,Male,United Kingdom,Clothing,Jeans,1,28000,Bank Transfer
+S10141,2025-09-28,Ibrahim Yusuf,Male,United States,Clothing,Jeans,1,28000,Card
+S10142,2025-07-30,Ruth Adams,Female,Nigeria,Electronics,Tablet,3,180000,Bank Transfer
+S10143,2025-12-01,Hauwa Sule,Male,United States,Electronics,Smartphone,2,280000,Mobile Money
+S10144,2025-09-24,Ruth Adams,Male,South Africa,Furniture,Bookshelf,9,85000,Card
+S10145,2025-01-14,Aisha Bello,Male,South Africa,Electronics,Tablet,7,180000,Mobile Money
+S10146,2025-04-12,Grace Musa,Male,Kenya,Electronics,Headphones,10,45000,Card
+S10147,2025-08-26,Emeka Nwosu,Female,South Africa,Electronics,Smartphone,10,280000,Bank Transfer
+S10148,2025-03-13,Daniel Adeyemi,Male,South Africa,Furniture,Table,8,120000,Card
+S10149,2025-12-01,Sarah Ahmed,Female,United States,Furniture,Bookshelf,2,85000,Bank Transfer
+S10150,2025-05-29,John Williams,Male,United States,Furniture,Bookshelf,8,85000,Cash
+S10151,2025-03-29,Peter Osei,Male,United States,Electronics,Laptop,6,450000,Card
+S10152,2025-03-19,Peter Osei,Female,United States,Electronics,Tablet,7,180000,Cash
+S10153,2025-07-21,Daniel Adeyemi,Male,Ghana,Groceries,Sugar,8,18000,Card
+S10154,2025-10-30,Daniel Adeyemi,Female,United Kingdom,Electronics,Tablet,4,180000,Mobile Money
+S10155,2025-06-05,Ibrahim Yusuf,Female,United States,Electronics,Tablet,5,180000,Bank Transfer
+S10156,2025-04-16,Mary Johnson,Female,Nigeria,Groceries,Rice,3,85000,Cash
+S10157,2025-05-12,Peter Osei,Female,Kenya,Electronics,Smartphone,3,280000,Bank Transfer
+S10158,2025-07-03,David Okoro,Male,Ghana,Groceries,Sugar,10,18000,Cash
+S10159,2025-10-26,Peter Osei,Female,United Kingdom,Electronics,Tablet,8,180000,Mobile Money
+S10160,2025-04-10,Daniel Adeyemi,Female,South Africa,Groceries,Cooking Oil,2,32000,Bank Transfer
+S10161,2025-11-10,Samuel Obi,Female,United Kingdom,Furniture,Bookshelf,1,85000,Cash
+S10162,2025-07-19,Mary Johnson,Female,Kenya,Clothing,Sneakers,6,55000,Cash
+S10163,2025-05-11,Ibrahim Yusuf,Male,South Africa,Electronics,Headphones,9,45000,Card
+S10164,2025-12-17,David Okoro,Female,Nigeria,Groceries,Rice,8,85000,Cash
+S10165,2025-05-30,Peter Osei,Female,Nigeria,Groceries,Cereal,7,9500,Cash
+S10166,2025-05-19,John Williams,Male,South Africa,Groceries,Cooking Oil,2,32000,Card
+S10167,2025-04-09,Grace Musa,Female,Kenya,Furniture,Table,6,120000,Card
+S10168,2025-02-22,Hauwa Sule,Male,United Kingdom,Groceries,Cooking Oil,9,32000,Card
+S10169,2025-02-22,Samuel Obi,Male,Ghana,Groceries,Sugar,5,18000,Card
+S10170,2025-04-26,Ibrahim Yusuf,Female,South Africa,Clothing,Jeans,10,28000,Mobile Money
+S10171,2025-05-10,Joy Emmanuel,Male,South Africa,Groceries,Sugar,8,18000,Bank Transfer
+S10172,2025-07-30,Hauwa Sule,Male,Kenya,Groceries,Rice,8,85000,Mobile Money
+S10173,2025-02-14,Michael James,Male,United States,Electronics,Laptop,2,450000,Mobile Money
+S10174,2025-01-08,Ruth Adams,Male,Kenya,Furniture,Office Chair,10,95000,Mobile Money
+S10175,2025-08-27,Daniel Adeyemi,Female,United States,Clothing,T-Shirt,2,12000,Card
+S10176,2025-01-21,Joy Emmanuel,Male,Kenya,Electronics,Smartphone,6,280000,Bank Transfer
+S10177,2025-03-13,Emeka Nwosu,Male,United States,Furniture,Table,6,120000,Cash
+S10178,2025-01-07,Michael James,Female,United States,Groceries,Rice,10,85000,Card
+S10179,2025-07-26,John Williams,Female,United States,Groceries,Rice,7,85000,Card
+S10180,2025-12-08,Blessing Okafor,Male,United States,Electronics,Tablet,9,180000,Cash
+S10181,2025-10-26,John Williams,Female,Ghana,Furniture,Bookshelf,4,85000,Bank Transfer
+S10182,2025-04-19,Mary Johnson,Male,Nigeria,Furniture,Desk,5,150000,Cash
+S10183,2025-06-08,Emeka Nwosu,Female,Ghana,Electronics,Tablet,3,180000,Card
+S10184,2025-10-20,Peter Osei,Female,United States,Clothing,Jacket,4,70000,Mobile Money
+S10185,2025-05-19,Victor Chukwu,Male,Kenya,Groceries,Cereal,8,9500,Card
+S10186,2025-09-30,Michael James,Female,United Kingdom,Groceries,Cereal,9,9500,Mobile Money
+S10187,2025-07-24,Fatima Ibrahim,Male,United States,Clothing,Jeans,8,28000,Bank Transfer
+S10188,2025-03-05,Grace Musa,Male,Kenya,Electronics,Laptop,8,450000,Card
+S10189,2025-12-02,Joy Emmanuel,Female,Nigeria,Furniture,Office Chair,7,95000,Cash
+S10190,2025-02-12,Sarah Ahmed,Male,Kenya,Furniture,Bookshelf,4,85000,Cash
+S10191,2025-10-07,Mary Johnson,Male,Nigeria,Groceries,Rice,5,85000,Mobile Money
+S10192,2025-08-02,Emeka Nwosu,Male,Nigeria,Clothing,Jacket,1,70000,Bank Transfer
+S10193,2025-05-09,Peter Osei,Male,Kenya,Clothing,Jeans,4,28000,Bank Transfer
+S10194,2025-02-04,Peter Osei,Female,Nigeria,Electronics,Laptop,2,450000,Mobile Money
+S10195,2025-04-12,Michael James,Female,Nigeria,Electronics,Smartphone,10,280000,Bank Transfer
+S10196,2025-07-17,Grace Musa,Female,Nigeria,Clothing,Jacket,9,70000,Cash
+S10197,2025-09-29,Sarah Ahmed,Female,Kenya,Furniture,Table,1,120000,Bank Transfer
+S10198,2025-10-16,Daniel Adeyemi,Female,Ghana,Electronics,Tablet,1,180000,Bank Transfer
+S10199,2025-06-10,Anthony Brown,Male,Ghana,Groceries,Cooking Oil,2,32000,Mobile Money
+S10200,2025-11-30,David Okoro,Male,Nigeria,Electronics,Tablet,6,180000,Bank Transfer
+S10201,2025-04-10,David Okoro,Male,Kenya,Furniture,Table,6,120000,Cash
+S10202,2025-03-16,John Williams,Female,South Africa,Groceries,Sugar,8,18000,Mobile Money
+S10203,2025-02-13,Anthony Brown,Female,United Kingdom,Groceries,Cooking Oil,5,32000,Cash
+S10204,2025-11-12,Emeka Nwosu,Male,United Kingdom,Furniture,Office Chair,5,95000,Bank Transfer
+S10205,2025-03-29,Michael James,Female,South Africa,Electronics,Laptop,10,450000,Mobile Money
+S10206,2025-12-02,Joy Emmanuel,Male,United States,Clothing,Jacket,6,70000,Mobile Money
+S10207,2025-06-20,Sarah Ahmed,Female,United Kingdom,Groceries,Rice,3,85000,Cash
+S10208,2025-08-02,Mary Johnson,Male,Ghana,Clothing,Jacket,6,70000,Bank Transfer
+S10209,2025-07-14,Joy Emmanuel,Female,Kenya,Furniture,Office Chair,8,95000,Cash
+S10210,2025-12-30,Blessing Okafor,Female,Ghana,Clothing,Sneakers,2,55000,Cash
+S10211,2025-03-10,Sarah Ahmed,Male,Kenya,Clothing,Jacket,5,70000,Mobile Money
+S10212,2025-12-25,Esther Eze,Male,Ghana,Clothing,Sneakers,2,55000,Mobile Money
+S10213,2025-01-25,Blessing Okafor,Female,United States,Clothing,Jacket,2,70000,Bank Transfer
+S10214,2025-04-04,John Williams,Male,Nigeria,Groceries,Cooking Oil,4,32000,Card
+S10215,2025-01-07,John Williams,Female,South Africa,Clothing,Jacket,9,70000,Card
+S10216,2025-10-21,Sarah Ahmed,Female,United Kingdom,Electronics,Laptop,7,450000,Mobile Money
+S10217,2025-08-14,Grace Musa,Female,South Africa,Electronics,Smartphone,9,280000,Bank Transfer
+S10218,2025-12-31,Peter Osei,Male,Nigeria,Clothing,Jeans,9,28000,Card
+S10219,2025-09-15,Blessing Okafor,Male,Kenya,Groceries,Cooking Oil,9,32000,Bank Transfer
+S10220,2025-06-19,Victor Chukwu,Female,Ghana,Electronics,Tablet,5,180000,Cash
+S10221,2025-04-13,Emeka Nwosu,Female,United Kingdom,Clothing,Jeans,1,28000,Cash
+S10222,2025-03-30,Esther Eze,Female,United Kingdom,Electronics,Laptop,1,450000,Mobile Money
+S10223,2025-05-27,Samuel Obi,Female,Kenya,Groceries,Sugar,8,18000,Cash
+S10224,2025-02-18,Peter Osei,Female,South Africa,Electronics,Smartphone,4,280000,Bank Transfer
+S10225,2025-04-18,John Williams,Female,Ghana,Clothing,Sneakers,6,55000,Cash
+S10226,2025-08-27,Daniel Adeyemi,Female,South Africa,Groceries,Cooking Oil,4,32000,Card
+S10227,2025-04-08,Sarah Ahmed,Female,Ghana,Electronics,Laptop,3,450000,Bank Transfer
+S10228,2025-12-27,Anthony Brown,Female,South Africa,Groceries,Cooking Oil,5,32000,Mobile Money
+S10229,2025-05-03,Hauwa Sule,Female,Ghana,Electronics,Laptop,4,450000,Bank Transfer
+S10230,2025-02-07,Anthony Brown,Female,Kenya,Electronics,Laptop,9,450000,Cash
+S10231,2025-06-21,Fatima Ibrahim,Female,South Africa,Electronics,Headphones,6,45000,Cash
+S10232,2025-04-09,John Williams,Female,Nigeria,Furniture,Office Chair,7,95000,Mobile Money
+S10233,2025-02-21,Daniel Adeyemi,Female,Kenya,Groceries,Rice,6,85000,Bank Transfer
+S10234,2025-04-05,Sarah Ahmed,Male,Nigeria,Clothing,Jeans,1,28000,Card
+S10235,2025-08-31,Joy Emmanuel,Male,United Kingdom,Groceries,Cereal,9,9500,Card
+S10236,2025-10-18,Sarah Ahmed,Female,United Kingdom,Groceries,Sugar,6,18000,Mobile Money
+S10237,2025-03-16,John Williams,Female,United States,Groceries,Cereal,2,9500,Mobile Money
+S10238,2025-09-24,Fatima Ibrahim,Male,United States,Groceries,Rice,1,85000,Mobile Money
+S10239,2025-03-07,Samuel Obi,Male,United Kingdom,Clothing,Jacket,2,70000,Card
+S10240,2025-09-12,Peter Osei,Male,South Africa,Electronics,Headphones,4,45000,Mobile Money
+S10241,2025-02-09,Hauwa Sule,Male,United Kingdom,Furniture,Office Chair,6,95000,Mobile Money
+S10242,2025-07-18,Joy Emmanuel,Female,United Kingdom,Furniture,Bookshelf,6,85000,Bank Transfer
+S10243,2025-05-05,Fatima Ibrahim,Female,Ghana,Furniture,Desk,5,150000,Bank Transfer
+S10244,2025-09-15,Anthony Brown,Female,United Kingdom,Clothing,,5,70000,Bank Transfer
+S10245,2025-11-24,John Williams,Male,Kenya,Electronics,Headphones,1,45000,Bank Transfer
+S10246,2025-10-01,Fatima Ibrahim,Female,Ghana,Electronics,Tablet,4,180000,Bank Transfer
+S10247,2025-01-31,Emeka Nwosu,Male,Ghana,Groceries,Cooking Oil,1,32000,Card
+S10248,2025-08-21,Peter Osei,Female,United States,Clothing,T-Shirt,8,12000,Cash
+S10249,2025-03-14,Peter Osei,Female,South Africa,Clothing,T-Shirt,4,12000,Bank Transfer
+S10250,2025-03-29,Grace Musa,Male,United Kingdom,Groceries,Sugar,1,18000,Card
+S10251,2025-08-23,Sarah Ahmed,Female,Ghana,Furniture,Desk,5,150000,Cash
+S10252,2025-09-05,Blessing Okafor,Female,South Africa,Electronics,Tablet,9,180000,Mobile Money
+S10253,2025-04-07,Esther Eze,Male,Kenya,Clothing,Jacket,3,70000,Mobile Money
+S10254,2025-11-28,Blessing Okafor,Female,United Kingdom,Groceries,Cooking Oil,4,32000,Card
+S10255,2025-02-17,Blessing Okafor,Male,South Africa,Furniture,Table,2,120000,Card
+S10256,2025-04-19,Samuel Obi,Male,Kenya,Clothing,Jacket,7,70000,Card
+S10257,2025-12-29,Michael James,Male,Kenya,Furniture,Bookshelf,6,85000,Card
+S10258,2025-10-17,Michael James,Male,South Africa,Electronics,Laptop,9,450000,Bank Transfer
+S10259,2025-11-30,Emeka Nwosu,Male,Ghana,Electronics,Tablet,3,180000,Mobile Money
+S10260,2025-06-01,Peter Osei,Female,United Kingdom,Clothing,Jacket,4,70000,Card
+S10261,2025-09-23,John Williams,Male,United Kingdom,Electronics,Headphones,2,45000,Cash
+S10262,2025-02-04,Blessing Okafor,Female,Nigeria,Clothing,Jeans,4,28000,Mobile Money
+S10263,2025-04-26,Joy Emmanuel,Male,United Kingdom,Electronics,Headphones,7,45000,Mobile Money
+S10264,2025-04-17,Aisha Bello,Female,Kenya,Electronics,Headphones,1,45000,Card
+S10265,2025-10-18,John Williams,Male,United Kingdom,Electronics,Laptop,1,450000,Cash
+S10266,2025-12-15,Peter Osei,Male,Ghana,Furniture,Office Chair,7,95000,Bank Transfer
+S10267,2025-08-25,Sarah Ahmed,Male,United States,Furniture,Table,9,120000,Card
+S10268,2025-01-09,Victor Chukwu,Female,United Kingdom,Groceries,Rice,3,85000,Card
+S10269,2025-03-28,Joy Emmanuel,Female,United Kingdom,Electronics,Laptop,7,450000,Card
+S10270,2025-07-17,Mary Johnson,Female,Ghana,Clothing,Jacket,2,70000,Cash
+S10271,2025-10-25,Esther Eze,Male,Nigeria,Furniture,Office Chair,10,95000,Cash
+S10272,2025-10-18,David Okoro,Female,South Africa,Furniture,Office Chair,4,95000,Card
+S10273,2025-05-30,Michael James,Male,United States,Electronics,Smartphone,10,280000,Bank Transfer
+S10274,2025-08-18,Mary Johnson,Male,South Africa,Groceries,Cooking Oil,5,32000,Bank Transfer
+S10275,2025-01-26,Victor Chukwu,Female,Nigeria,Electronics,Smartphone,6,280000,Mobile Money
+S10276,2025-12-24,Mary Johnson,Female,South Africa,Groceries,Cereal,3,9500,Mobile Money
+S10277,2025-04-10,Mary Johnson,Female,Nigeria,Clothing,Jeans,9,28000,Mobile Money
+S10278,2025-07-18,Samuel Obi,Female,Ghana,Furniture,Desk,6,150000,Cash
+S10279,2025-11-25,Victor Chukwu,Male,Nigeria,Furniture,Bookshelf,5,85000,Mobile Money
+S10280,2025-03-24,Ruth Adams,Male,South Africa,Electronics,Laptop,4,450000,Bank Transfer
+S10281,2025-10-18,Esther Eze,Male,United States,Groceries,Rice,8,85000,Card
+S10282,2025-10-26,Victor Chukwu,Female,Kenya,Clothing,Jacket,7,70000,Mobile Money
+S10283,2025-04-08,John Williams,Female,South Africa,Groceries,Sugar,2,18000,Mobile Money
+S10284,2025-05-16,Blessing Okafor,Female,Nigeria,Groceries,Cooking Oil,10,32000,Card
+S10285,2025-02-12,Victor Chukwu,Female,Kenya,Clothing,T-Shirt,3,12000,Card
+S10286,2025-05-11,Ruth Adams,Male,South Africa,Groceries,Cooking Oil,9,32000,Bank Transfer
+S10287,2025-01-21,Joy Emmanuel,Male,United States,Groceries,Cereal,6,9500,Card
+S10288,2025-08-09,Victor Chukwu,Male,United Kingdom,Clothing,Jacket,1,70000,Cash
+S10289,2025-03-14,Mary Johnson,Male,Nigeria,Electronics,Laptop,3,450000,Cash
+S10290,2025-11-06,David Okoro,Female,United States,Clothing,Jacket,8,70000,Cash
+S10291,2025-05-18,Aisha Bello,Female,United Kingdom,Electronics,Headphones,5,45000,Cash
+S10292,2025-05-17,Daniel Adeyemi,Male,Ghana,Furniture,Desk,4,150000,Bank Transfer
+S10293,2025-07-30,Grace Musa,Female,South Africa,Groceries,Sugar,8,18000,Card
+S10294,2025-11-30,David Okoro,Male,South Africa,Clothing,Sneakers,7,55000,Mobile Money
+S10295,2025-08-30,Ibrahim Yusuf,Male,South Africa,Furniture,Office Chair,7,95000,Bank Transfer
+S10296,2025-05-31,Esther Eze,Female,Kenya,Electronics,Laptop,1,450000,Cash
+S10297,2025-03-11,Blessing Okafor,Male,Ghana,Groceries,Rice,10,85000,Card
+S10298,2025-03-25,Ibrahim Yusuf,Male,United Kingdom,Furniture,Office Chair,7,95000,Bank Transfer
+S10299,2025-03-17,Hauwa Sule,Female,Nigeria,Furniture,Desk,2,150000,Mobile Money
+S10300,2025-12-04,Emeka Nwosu,Female,Kenya,Clothing,T-Shirt,1,12000,Bank Transfer
+S10301,2025-11-21,John Williams,Female,South Africa,Furniture,Table,3,120000,Mobile Money
+S10302,2025-12-13,Grace Musa,Male,Kenya,Electronics,Tablet,3,180000,Mobile Money
+S10303,2025-01-10,John Williams,Male,Nigeria,Clothing,Jacket,1,70000,Bank Transfer
+S10304,2025-01-30,Daniel Adeyemi,Male,Nigeria,Furniture,Bookshelf,3,85000,Mobile Money
+S10305,2025-01-19,Aisha Bello,Male,Kenya,Furniture,Table,9,120000,Cash
+S10306,2025-03-29,Michael James,Female,South Africa,Groceries,Cereal,2,9500,Card
+S10307,2025-12-25,Mary Johnson,Female,Kenya,Clothing,Jacket,5,70000,Mobile Money
+S10308,2025-11-24,Peter Osei,Female,South Africa,Clothing,T-Shirt,5,12000,Mobile Money
+S10309,2025-10-15,Samuel Obi,Female,United Kingdom,Electronics,Tablet,10,180000,Card
+S10310,2025-09-21,Michael James,Male,South Africa,Furniture,Office Chair,6,95000,Mobile Money
+S10311,2025-12-01,Peter Osei,Male,Kenya,Groceries,Cereal,6,9500,Card
+S10312,2025-02-18,Sarah Ahmed,Female,Kenya,Furniture,Bookshelf,8,85000,Card
+S10313,2025-09-28,Sarah Ahmed,Female,Nigeria,Groceries,Cereal,10,9500,Card
+S10314,2025-03-21,Esther Eze,Female,Kenya,Clothing,T-Shirt,2,12000,Mobile Money
+S10315,2025-05-10,Samuel Obi,Female,United States,Furniture,Desk,3,150000,Mobile Money
+S10316,2025-09-12,Emeka Nwosu,Female,United Kingdom,Furniture,Office Chair,7,95000,Mobile Money
+S10317,2025-04-03,Daniel Adeyemi,Male,United States,Electronics,Tablet,6,180000,Card
+S10318,2025-11-25,Peter Osei,Male,Nigeria,Electronics,Headphones,2,45000,Bank Transfer
+S10319,2025-09-02,John Williams,Female,South Africa,Clothing,Jeans,10,28000,Card
+S10320,2025-07-07,Daniel Adeyemi,Female,South Africa,Groceries,Rice,2,85000,Cash
+S10321,2025-11-03,Blessing Okafor,Female,Ghana,Clothing,Sneakers,9,55000,Mobile Money
+S10322,2025-04-13,Joy Emmanuel,Female,Kenya,Groceries,Cereal,2,9500,Bank Transfer
+S10323,2025-06-14,Blessing Okafor,Male,United States,Electronics,Laptop,3,450000,Card
+S10324,2025-11-26,Victor Chukwu,Female,South Africa,Clothing,Jeans,4,28000,Mobile Money
+S10325,2025-04-04,Sarah Ahmed,Male,United States,Clothing,Jeans,10,28000,Card
+S10326,2025-06-02,Aisha Bello,Male,Ghana,Furniture,Table,5,120000,Cash
+S10327,2025-12-05,Blessing Okafor,Male,South Africa,Electronics,Smartphone,2,280000,Bank Transfer
+S10328,2025-08-19,Emeka Nwosu,Female,United Kingdom,Furniture,Bookshelf,2,85000,Bank Transfer
+S10329,2025-07-08,Michael James,Male,United States,Groceries,Cereal,3,9500,Bank Transfer
+S10330,2025-01-29,Daniel Adeyemi,Male,Kenya,Electronics,Smartphone,3,280000,Mobile Money
+S10331,2025-02-05,Peter Osei,Male,South Africa,Furniture,Desk,9,150000,Card
+S10332,2025-06-27,Mary Johnson,Male,Kenya,Clothing,Jacket,8,70000,Cash
+S10333,2025-05-11,Mary Johnson,Male,South Africa,Groceries,Rice,9,85000,Mobile Money
+S10334,2025-08-23,Joy Emmanuel,Female,Ghana,Furniture,Table,2,120000,Cash
+S10335,2025-08-24,Fatima Ibrahim,Male,United Kingdom,Clothing,Sneakers,5,55000,Card
+S10336,2025-08-16,Daniel Adeyemi,Male,Kenya,Furniture,Table,9,120000,Bank Transfer
+S10337,2025-01-17,Peter Osei,Male,United States,Electronics,Headphones,4,45000,Bank Transfer
+S10338,2025-06-20,John Williams,Male,South Africa,Electronics,Headphones,2,45000,Card
+S10339,2025-03-26,Ibrahim Yusuf,Male,Ghana,Clothing,Sneakers,4,55000,Cash
+S10340,2025-07-29,Blessing Okafor,Female,Kenya,Groceries,Sugar,10,18000,Bank Transfer
+S10341,2025-09-14,David Okoro,Female,United States,Electronics,Smartphone,3,280000,Card
+S10342,2025-04-15,Samuel Obi,Female,South Africa,Clothing,Jeans,3,28000,Bank Transfer
+S10343,2025-11-03,Grace Musa,Male,South Africa,Furniture,Table,9,120000,Bank Transfer
+S10344,2025-08-22,Blessing Okafor,Male,United States,Groceries,Cereal,2,9500,Mobile Money
+S10345,2025-11-21,Esther Eze,Female,Ghana,Groceries,Rice,8,85000,Bank Transfer
+S10346,2025-07-31,Victor Chukwu,Male,United Kingdom,Groceries,Sugar,8,18000,Bank Transfer
+S10347,2025-07-01,Joy Emmanuel,Male,Nigeria,Electronics,Laptop,3,450000,Mobile Money
+S10348,2025-09-07,Esther Eze,Male,United States,Furniture,Office Chair,5,95000,Card
+S10349,2025-08-20,Fatima Ibrahim,Male,Kenya,Groceries,Rice,3,85000,Cash
+S10350,2025-05-21,Peter Osei,Male,United States,Furniture,Bookshelf,2,85000,Cash
+S10351,2025-12-08,Mary Johnson,Male,United Kingdom,Clothing,Jacket,8,70000,Cash
+S10352,2025-07-04,Peter Osei,Male,South Africa,Electronics,Tablet,2,180000,Card
+S10353,2025-06-22,Daniel Adeyemi,Female,Kenya,Furniture,Office Chair,5,95000,Card
+S10354,2025-10-29,Grace Musa,Male,United Kingdom,Furniture,Desk,3,150000,Mobile Money
+S10355,2025-03-02,Peter Osei,Female,Ghana,Groceries,Cooking Oil,2,32000,Cash
+S10356,2025-12-13,John Williams,Female,Kenya,Clothing,T-Shirt,3,12000,Card
+S10357,2025-02-14,Victor Chukwu,Female,United States,Groceries,Rice,1,85000,Bank Transfer
+S10358,2025-01-20,Michael James,Male,Ghana,Clothing,Jeans,8,28000,Mobile Money
+S10359,2025-02-13,Emeka Nwosu,Male,United Kingdom,Electronics,Smartphone,1,280000,Bank Transfer
+S10360,2025-03-05,Ruth Adams,Female,Kenya,Groceries,Cooking Oil,9,32000,Card
+S10361,2025-08-14,Ruth Adams,Male,Nigeria,Furniture,Office Chair,5,95000,Card
+S10362,2025-08-17,Hauwa Sule,Female,United States,Electronics,Laptop,9,450000,Mobile Money
+S10363,2025-02-13,Victor Chukwu,Male,Kenya,Furniture,Table,2,120000,Bank Transfer
+S10364,2025-12-03,Victor Chukwu,Female,South Africa,Electronics,Smartphone,10,280000,Cash
+S10365,2025-09-24,David Okoro,Male,Nigeria,Groceries,Cereal,7,9500,Cash
+S10366,2025-04-14,Ibrahim Yusuf,Male,Nigeria,Furniture,Office Chair,3,95000,Cash
+S10367,2025-09-06,Hauwa Sule,Female,Ghana,Clothing,Jacket,6,70000,Card
+S10368,2025-09-05,Blessing Okafor,Female,Kenya,Groceries,Rice,9,85000,Cash
+S10369,2025-12-12,Joy Emmanuel,Female,Nigeria,Groceries,Rice,8,85000,Card
+S10370,2025-01-05,Daniel Adeyemi,Male,Ghana,Groceries,Cooking Oil,9,32000,Cash
+S10371,2025-02-08,David Okoro,Female,Kenya,Electronics,Laptop,7,450000,Card
+S10372,2025-09-27,Samuel Obi,Female,Ghana,Clothing,T-Shirt,7,12000,Bank Transfer
+S10373,2025-04-06,Daniel Adeyemi,Male,Ghana,Groceries,Rice,4,85000,Cash
+S10374,2025-06-04,Michael James,Female,Kenya,Furniture,Office Chair,2,95000,Mobile Money
+S10375,2025-11-01,Michael James,Female,United States,Electronics,Tablet,10,180000,Card
+S10376,2025-11-23,Esther Eze,Male,Ghana,Furniture,Bookshelf,1,85000,Mobile Money
+S10377,2025-05-20,Aisha Bello,Female,Nigeria,Electronics,Smartphone,7,280000,Bank Transfer
+S10378,2025-07-26,Samuel Obi,Female,South Africa,Electronics,Smartphone,1,280000,Card
+S10379,2025-06-06,Samuel Obi,Female,United States,Groceries,Rice,6,85000,Mobile Money
+S10380,2025-06-09,Mary Johnson,Female,Nigeria,Electronics,Laptop,10,450000,Cash
+S10381,2025-07-14,Michael James,Female,Kenya,Furniture,Desk,7,150000,Bank Transfer
+S10382,2025-02-05,Samuel Obi,Male,Ghana,Groceries,Cereal,3,9500,Cash
+S10383,2025-07-07,Joy Emmanuel,Female,Kenya,Clothing,T-Shirt,7,12000,Cash
+S10384,2025-10-03,Michael James,Female,Kenya,Groceries,Cooking Oil,2,32000,Cash
+S10385,2025-10-08,Esther Eze,Female,Ghana,Clothing,Sneakers,2,55000,Card
+S10386,2025-08-10,David Okoro,Female,Kenya,Groceries,Cereal,3,9500,Cash
+S10387,2025-06-26,Daniel Adeyemi,Female,Nigeria,Furniture,Table,3,120000,Cash
+S10388,2025-07-22,Mary Johnson,Male,South Africa,Electronics,Laptop,6,450000,Cash
+S10389,2025-07-20,Grace Musa,Male,United States,Groceries,Rice,8,85000,Card
+S10390,2025-12-30,David Okoro,Female,Nigeria,Electronics,Tablet,3,180000,Mobile Money
+S10391,2025-05-12,Sarah Ahmed,Female,Ghana,Furniture,Table,6,120000,Card
+S10392,2025-01-24,Joy Emmanuel,Male,Nigeria,Clothing,Sneakers,10,55000,Card
+S10393,2025-03-09,Victor Chukwu,Female,Nigeria,Groceries,Cereal,2,9500,Bank Transfer
+S10394,2025-09-12,Esther Eze,Male,United States,Furniture,Desk,9,150000,Cash
+S10395,2025-07-01,Victor Chukwu,Female,Kenya,Furniture,Bookshelf,10,85000,Bank Transfer
+S10396,2025-12-04,Aisha Bello,Female,United Kingdom,Furniture,Bookshelf,4,85000,Cash
+S10397,2025-10-22,Hauwa Sule,Female,United Kingdom,Groceries,Rice,4,85000,Card
+S10398,2025-02-16,Fatima Ibrahim,Male,Ghana,Electronics,Smartphone,10,280000,Mobile Money
+S10399,2025-07-08,Samuel Obi,Female,United States,Groceries,Cooking Oil,6,32000,Cash
+S10400,2025-10-24,Anthony Brown,Female,Ghana,Groceries,Cooking Oil,8,32000,Cash
+S10401,2025-11-08,Emeka Nwosu,Male,Nigeria,Electronics,Laptop,9,450000,Mobile Money
+S10402,2025-01-02,Mary Johnson,Female,United States,Electronics,Tablet,3,180000,Bank Transfer
+S10403,2025-09-14,Ruth Adams,Male,Nigeria,Electronics,Laptop,9,450000,Bank Transfer
+S10404,2025-12-08,Ruth Adams,Male,Kenya,Electronics,Tablet,5,180000,Bank Transfer
+S10405,2025-08-12,Anthony Brown,Female,Ghana,Clothing,Jeans,9,28000,Bank Transfer
+S10406,2025-03-12,Michael James,Female,Ghana,Clothing,Jeans,3,28000,Cash
+S10407,2025-01-12,Emeka Nwosu,Female,United Kingdom,Furniture,Office Chair,4,95000,Cash
+S10408,2025-02-20,Grace Musa,Male,Kenya,Furniture,Desk,6,150000,Card
+S10409,2025-12-08,Aisha Bello,Female,Ghana,Electronics,Tablet,4,180000,Cash
+S10410,2025-02-20,Aisha Bello,Male,South Africa,Groceries,Sugar,8,18000,Mobile Money
+S10411,2025-09-25,Sarah Ahmed,Female,United Kingdom,Clothing,Jacket,7,70000,Cash
+S10412,2025-10-14,Joy Emmanuel,Male,Nigeria,Furniture,Desk,5,150000,Cash
+S10413,2025-03-11,Grace Musa,Female,Ghana,Groceries,Sugar,7,18000,Card
+S10414,2025-04-01,Emeka Nwosu,Female,United States,Electronics,Laptop,1,450000,Mobile Money
+S10415,2025-09-24,David Okoro,Male,Kenya,Clothing,Jacket,4,70000,Card
+S10416,2025-05-05,Michael James,Male,Nigeria,Furniture,Bookshelf,1,85000,Mobile Money
+S10417,2025-09-11,John Williams,Male,South Africa,Furniture,Desk,2,150000,Bank Transfer
+S10418,2025-12-14,Aisha Bello,Male,Ghana,Furniture,Desk,5,150000,Cash
+S10419,2025-11-17,Sarah Ahmed,Female,South Africa,Furniture,Office Chair,5,95000,Cash
+S10420,2025-03-02,Sarah Ahmed,Female,Ghana,Furniture,Desk,8,150000,Cash
+S10421,2025-09-10,Fatima Ibrahim,Male,Kenya,Groceries,Cereal,10,9500,Cash
+S10422,2025-10-30,John Williams,Female,United Kingdom,Clothing,T-Shirt,4,12000,Cash
+S10423,2025-02-21,Ruth Adams,Male,South Africa,Furniture,Table,5,120000,Cash
+S10424,2025-07-07,Ruth Adams,Male,Nigeria,Furniture,Office Chair,8,95000,Card
+S10425,2025-11-02,Mary Johnson,Male,South Africa,Clothing,Jeans,2,28000,Mobile Money
+S10426,2025-01-14,Blessing Okafor,Male,Nigeria,Clothing,Jeans,7,28000,Mobile Money
+S10427,2025-07-15,Joy Emmanuel,Male,United States,Groceries,Sugar,10,18000,Mobile Money
+S10428,2025-09-14,Mary Johnson,Male,Nigeria,Electronics,Headphones,10,45000,Cash
+S10429,2025-12-29,Fatima Ibrahim,Female,United States,Groceries,Sugar,8,18000,Mobile Money
+S10430,2025-01-04,Sarah Ahmed,Male,United Kingdom,Electronics,Smartphone,10,280000,Mobile Money
+S10431,2025-09-06,Samuel Obi,Male,United States,Electronics,Headphones,8,45000,Bank Transfer
+S10432,2025-03-26,Michael James,Female,Kenya,Groceries,Rice,8,85000,Cash
+S10433,2025-06-26,Joy Emmanuel,Female,Kenya,Clothing,Jeans,7,28000,Cash
+S10434,2025-12-20,Peter Osei,Female,United Kingdom,Clothing,Jacket,6,70000,Cash
+S10435,2025-12-21,Hauwa Sule,Female,Ghana,Clothing,T-Shirt,9,12000,Cash
+S10436,2025-08-13,David Okoro,Male,Nigeria,Clothing,Jeans,8,28000,Cash
+S10437,2025-07-06,John Williams,Female,United Kingdom,Groceries,Cooking Oil,7,32000,Cash
+S10438,2025-03-06,Anthony Brown,Female,Ghana,Electronics,Smartphone,8,280000,Bank Transfer
+S10439,2025-09-02,Grace Musa,Female,Nigeria,Groceries,Cooking Oil,7,32000,Cash
+S10440,2025-11-08,Samuel Obi,Male,Kenya,Clothing,Jeans,7,28000,Cash
+S10441,2025-09-20,Ibrahim Yusuf,Male,Ghana,Electronics,Headphones,5,45000,Bank Transfer
+S10442,2025-04-11,John Williams,Female,Kenya,Groceries,Cereal,4,9500,Mobile Money
+S10443,2025-09-07,Aisha Bello,Female,United Kingdom,Groceries,Cereal,10,9500,Bank Transfer
+S10444,2025-03-30,Grace Musa,Female,Kenya,Groceries,Rice,6,85000,Bank Transfer
+S10445,2025-10-10,Mary Johnson,Male,Nigeria,Groceries,Sugar,10,18000,Mobile Money
+S10446,2025-10-08,Anthony Brown,Female,Kenya,Groceries,Cooking Oil,7,32000,Mobile Money
+S10447,2025-08-10,Blessing Okafor,Male,United States,Furniture,Office Chair,9,95000,Mobile Money
+S10448,2025-11-27,Victor Chukwu,Male,Kenya,Groceries,Sugar,2,18000,Mobile Money
+S10449,2025-02-27,Blessing Okafor,Male,Ghana,Clothing,Sneakers,6,55000,Card
+S10450,2025-01-16,John Williams,Female,United Kingdom,Groceries,Cereal,5,9500,Mobile Money
+S10451,2025-08-26,Ruth Adams,Male,South Africa,Electronics,Headphones,4,45000,Cash
+S10452,2025-09-23,David Okoro,Male,Ghana,Furniture,Bookshelf,4,85000,Bank Transfer
+S10453,2025-08-24,Blessing Okafor,Male,Nigeria,Furniture,Table,8,120000,Bank Transfer
+S10454,2025-12-17,Aisha Bello,Female,Kenya,Clothing,Sneakers,4,55000,Card
+S10455,2025-12-05,Mary Johnson,Female,United States,Clothing,Jacket,7,70000,Mobile Money
+S10456,2025-09-27,Aisha Bello,Male,United Kingdom,Furniture,Table,4,120000,Bank Transfer
+S10457,2025-12-04,Esther Eze,Male,United States,Electronics,Tablet,1,180000,Card
+S10458,2025-04-09,Mary Johnson,Male,South Africa,Clothing,Sneakers,9,55000,Bank Transfer
+S10459,2025-10-21,Michael James,Female,South Africa,Clothing,T-Shirt,9,12000,Bank Transfer
+S10460,2025-07-27,Anthony Brown,Female,Ghana,Furniture,Desk,3,150000,Mobile Money
+S10461,2025-07-17,Mary Johnson,Male,United States,Electronics,Smartphone,1,280000,Card
+S10462,2025-07-20,Sarah Ahmed,Female,United Kingdom,Electronics,Tablet,10,180000,Cash
+S10463,2025-09-13,David Okoro,Male,South Africa,Electronics,Laptop,8,450000,Mobile Money
+S10464,2025-07-13,Mary Johnson,Male,United States,Electronics,Tablet,1,180000,Bank Transfer
+S10465,2025-06-11,Fatima Ibrahim,Male,South Africa,Furniture,Office Chair,2,95000,Cash
+S10466,2025-06-21,Anthony Brown,Male,United Kingdom,Groceries,Rice,4,85000,Bank Transfer
+S10467,2025-01-09,Michael James,Male,Nigeria,Clothing,Sneakers,9,55000,Mobile Money
+S10468,2025-10-09,Samuel Obi,Male,Nigeria,Clothing,Jacket,2,70000,Cash
+S10469,2025-01-21,Hauwa Sule,Male,United States,Furniture,Desk,2,150000,Bank Transfer
+S10470,2025-03-22,Fatima Ibrahim,Female,Nigeria,Clothing,Jacket,2,70000,Card
+S10471,2025-03-24,Blessing Okafor,Female,United States,Electronics,Tablet,2,180000,Cash
+S10472,2025-11-22,Ibrahim Yusuf,Female,Kenya,Electronics,Laptop,8,450000,Bank Transfer
+S10473,2025-09-26,Ibrahim Yusuf,Male,South Africa,Electronics,Tablet,7,180000,Mobile Money
+S10474,2025-07-24,Peter Osei,Male,Nigeria,Groceries,Cereal,3,9500,Cash
+S10475,2025-04-19,Ruth Adams,Female,United Kingdom,Clothing,T-Shirt,8,12000,Card
+S10476,2025-05-03,Mary Johnson,Female,South Africa,Furniture,Bookshelf,2,85000,Mobile Money
+S10477,2025-11-14,Fatima Ibrahim,Female,Nigeria,Furniture,Office Chair,9,95000,Card
+S10478,2025-01-28,Samuel Obi,Female,Kenya,Groceries,Rice,7,85000,Card
+S10479,2025-07-25,Hauwa Sule,Female,South Africa,Electronics,Laptop,3,450000,Cash
+S10480,2025-12-06,Blessing Okafor,Female,Nigeria,Furniture,Bookshelf,9,85000,Card
+S10481,2025-10-31,Grace Musa,Female,South Africa,Furniture,Table,10,120000,Mobile Money
+S10482,2025-09-01,Blessing Okafor,Male,South Africa,Electronics,Headphones,1,45000,Cash
+S10483,2025-09-05,Victor Chukwu,Male,Nigeria,Furniture,Table,10,120000,Bank Transfer
+S10484,2025-09-08,John Williams,Male,Ghana,Clothing,Jacket,8,70000,Bank Transfer
+S10485,2025-07-16,Daniel Adeyemi,Male,United States,Furniture,Bookshelf,4,85000,Cash
+S10486,2025-02-23,Victor Chukwu,Female,United States,Groceries,Sugar,2,18000,Cash
+S10487,2025-09-19,Peter Osei,Male,Kenya,Clothing,Jacket,10,70000,Card
+S10488,2025-12-19,Esther Eze,Female,Ghana,Clothing,T-Shirt,6,12000,Cash
+S10489,2025-11-07,Joy Emmanuel,Female,United States,Furniture,Office Chair,10,95000,Card
+S10490,2025-10-23,David Okoro,Female,United Kingdom,Furniture,Office Chair,8,95000,Card
+S10491,2025-01-08,Sarah Ahmed,Female,United Kingdom,Clothing,Jeans,7,28000,Mobile Money
+S10492,2025-09-10,Blessing Okafor,Female,South Africa,Clothing,Sneakers,3,55000,Card
+S10493,2025-10-30,Victor Chukwu,Male,Ghana,Furniture,Bookshelf,4,85000,Bank Transfer
+S10494,2025-11-01,Hauwa Sule,Female,United States,Groceries,Cooking Oil,2,32000,Bank Transfer
+S10495,2025-04-12,Peter Osei,Male,United Kingdom,Furniture,Table,2,120000,Cash
+S10496,2025-10-08,David Okoro,Male,Kenya,Furniture,Desk,3,150000,Bank Transfer
+S10497,2025-01-16,Michael James,Male,United Kingdom,Groceries,Cooking Oil,1,32000,Bank Transfer
+S10498,2025-09-22,Victor Chukwu,Female,Ghana,Furniture,Office Chair,9,95000,Bank Transfer
+S10499,2025-01-03,Peter Osei,Female,United Kingdom,Electronics,Headphones,1,45000,Cash
+S10500,2025-07-17,Samuel Obi,Female,United Kingdom,Groceries,Cooking Oil,9,32000,Card
+S10501,2025-10-24,Ibrahim Yusuf,Male,Ghana,Clothing,Sneakers,3,55000,Cash
+S10502,2025-02-08,Fatima Ibrahim,Female,Ghana,Furniture,Office Chair,3,95000,Bank Transfer
+S10503,2025-10-10,Mary Johnson,Male,Ghana,Electronics,Tablet,6,180000,Cash
+S10504,2025-02-25,Grace Musa,Female,United Kingdom,Groceries,Cereal,4,9500,Card
+S10505,2025-05-27,Victor Chukwu,Female,Nigeria,Electronics,Smartphone,6,280000,Card
+S10506,2025-09-19,John Williams,Female,Ghana,Clothing,Sneakers,10,55000,Mobile Money
+S10507,2025-03-06,Joy Emmanuel,Male,United States,Electronics,Laptop,10,450000,Card
+S10508,2025-06-18,Daniel Adeyemi,Female,Kenya,Electronics,Tablet,9,180000,Bank Transfer
+S10509,2025-03-19,Hauwa Sule,Female,South Africa,Electronics,Tablet,1,180000,Bank Transfer
+S10510,2025-05-19,Grace Musa,Male,Ghana,Clothing,Sneakers,9,55000,Cash
+S10511,2025-03-19,Peter Osei,Male,Ghana,Electronics,Smartphone,9,280000,Mobile Money
+S10512,2025-05-03,Joy Emmanuel,Female,Nigeria,Electronics,Smartphone,2,280000,Cash
+S10513,2025-08-19,Victor Chukwu,Male,United Kingdom,Electronics,Smartphone,4,280000,Bank Transfer
+S10514,2025-05-28,Sarah Ahmed,Female,Kenya,Furniture,Table,1,120000,Mobile Money
+S10515,2025-10-15,Ruth Adams,Male,United States,Electronics,Laptop,2,450000,Bank Transfer
+S10516,2025-02-09,Emeka Nwosu,Male,Kenya,Electronics,Tablet,8,180000,Mobile Money
+S10517,2025-04-28,Ibrahim Yusuf,Male,Ghana,Furniture,Office Chair,7,95000,Bank Transfer
+S10518,2025-07-11,Aisha Bello,Male,Nigeria,Clothing,Sneakers,1,55000,Cash
+S10519,2025-04-11,Esther Eze,Female,Ghana,Furniture,Office Chair,7,95000,Card
+S10520,2025-01-19,Emeka Nwosu,Female,Ghana,Clothing,Jeans,2,28000,Card
+S10521,2025-06-16,Michael James,Male,Kenya,Electronics,Headphones,2,45000,Card
+S10522,2025-05-26,Mary Johnson,Male,Nigeria,Furniture,Bookshelf,5,85000,Cash
+S10523,2025-01-09,Joy Emmanuel,Female,United Kingdom,Clothing,Sneakers,5,55000,Card
+S10524,2025-08-06,Ibrahim Yusuf,Male,Kenya,Groceries,Sugar,4,18000,Card
+S10525,2025-07-27,Mary Johnson,Female,South Africa,Furniture,Bookshelf,8,85000,Mobile Money
+S10526,2025-07-06,Victor Chukwu,Male,Ghana,Groceries,Sugar,10,18000,Cash
+S10527,2025-07-11,Fatima Ibrahim,Male,United States,Groceries,Cooking Oil,2,32000,Cash
+S10528,2025-07-20,David Okoro,Female,United Kingdom,Electronics,Headphones,9,45000,Mobile Money
+S10529,2025-09-23,Samuel Obi,Female,Ghana,Clothing,Sneakers,8,55000,Cash
+S10530,2025-05-26,Aisha Bello,Male,United Kingdom,Furniture,Bookshelf,3,85000,Card
+S10531,2025-06-12,Ruth Adams,Male,United States,Furniture,Desk,8,150000,Bank Transfer
+S10532,2025-11-20,Samuel Obi,Male,Kenya,Electronics,Smartphone,6,280000,Card
+S10533,2025-08-08,John Williams,Female,South Africa,Electronics,Smartphone,8,280000,Cash
+S10534,2025-11-01,Hauwa Sule,Female,United States,Electronics,Tablet,5,180000,Card
+S10535,2025-03-22,Ruth Adams,Male,United Kingdom,Furniture,Table,5,120000,Mobile Money
+S10536,2025-12-04,John Williams,Female,South Africa,Clothing,Jacket,10,70000,Cash
+S10537,2025-08-07,Samuel Obi,Male,United Kingdom,Clothing,Jacket,5,70000,Card
+S10538,2025-12-16,John Williams,Male,United States,Clothing,Jeans,4,28000,Mobile Money
+S10539,2025-11-30,Anthony Brown,Female,Ghana,Groceries,Rice,10,85000,Card
+S10540,2025-06-23,David Okoro,Male,United Kingdom,Furniture,Office Chair,10,95000,Card
+S10541,2025-09-26,David Okoro,Male,Kenya,Clothing,T-Shirt,3,12000,Mobile Money
+S10542,2025-07-14,Esther Eze,Female,United Kingdom,Electronics,Tablet,8,180000,Mobile Money
+S10543,2025-09-24,Emeka Nwosu,Male,United Kingdom,Clothing,Jeans,3,28000,Bank Transfer
+S10544,2025-06-04,Emeka Nwosu,Male,Ghana,Clothing,Sneakers,7,55000,Mobile Money
+S10545,2025-01-10,Esther Eze,Female,Ghana,Clothing,T-Shirt,10,12000,Cash
+S10546,2025-09-08,Victor Chukwu,Male,Nigeria,Clothing,Jacket,8,70000,Card
+S10547,2025-11-20,Peter Osei,Female,Nigeria,Electronics,Headphones,9,45000,Mobile Money
+S10548,2025-12-14,John Williams,Male,South Africa,Clothing,Jacket,3,70000,Bank Transfer
+S10549,2025-08-18,Michael James,Female,Kenya,Furniture,Desk,4,150000,Cash
+S10550,2025-03-13,Aisha Bello,Female,United States,Electronics,Laptop,4,450000,Bank Transfer
+S10551,2025-07-21,Mary Johnson,Female,United States,Furniture,Bookshelf,10,85000,Bank Transfer
+S10552,2025-12-07,Emeka Nwosu,Female,United States,Groceries,Cereal,7,9500,Card
+S10553,2025-04-01,John Williams,Female,Kenya,Furniture,Table,5,120000,Bank Transfer
+S10554,2025-03-31,Samuel Obi,Female,United States,Furniture,Desk,3,150000,Cash
+S10555,2025-05-26,Victor Chukwu,Male,Ghana,Clothing,Jacket,7,70000,Cash
+S10556,2025-05-28,Emeka Nwosu,Female,Nigeria,Electronics,Smartphone,2,280000,Bank Transfer
+S10557,2025-03-13,Emeka Nwosu,Male,United States,Clothing,Sneakers,7,55000,Mobile Money
+S10558,2025-03-11,Anthony Brown,Female,Nigeria,Groceries,Rice,4,85000,Bank Transfer
+S10559,2025-10-27,Hauwa Sule,Male,United Kingdom,Clothing,T-Shirt,3,12000,Cash
+S10560,2025-06-28,Ibrahim Yusuf,Male,Kenya,Groceries,Cooking Oil,7,32000,Bank Transfer
+S10561,2025-05-06,Hauwa Sule,Male,United States,Furniture,Table,2,120000,Cash
+S10562,2025-12-10,Fatima Ibrahim,Male,United Kingdom,Groceries,Sugar,4,18000,Mobile Money
+S10563,2025-01-01,Ibrahim Yusuf,Female,United Kingdom,Furniture,Office Chair,2,95000,Cash
+S10564,2025-06-04,Hauwa Sule,Female,United Kingdom,Groceries,Sugar,10,18000,Bank Transfer
+S10565,2025-11-03,Samuel Obi,Female,South Africa,Furniture,Table,8,120000,Cash
+S10566,2025-04-16,Grace Musa,Female,United States,Furniture,Office Chair,4,95000,Card
+S10567,2025-02-21,Hauwa Sule,Male,United States,Groceries,Cereal,5,9500,Card
+S10568,2025-01-23,Blessing Okafor,Male,United Kingdom,Groceries,Rice,3,85000,Mobile Money
+S10569,2025-03-14,Ruth Adams,Female,Ghana,Groceries,Sugar,4,18000,Mobile Money
+S10570,2025-12-27,Fatima Ibrahim,Male,Ghana,Clothing,Jeans,4,28000,Card
+S10571,2025-11-02,Daniel Adeyemi,Male,United States,Groceries,Cooking Oil,8,32000,Cash
+S10572,2025-05-06,Emeka Nwosu,Female,South Africa,Electronics,Headphones,10,45000,Bank Transfer
+S10573,2025-07-10,Fatima Ibrahim,Female,Ghana,Furniture,Desk,10,150000,Card
+S10574,2025-03-03,Victor Chukwu,Male,United Kingdom,Electronics,Headphones,6,45000,Mobile Money
+S10575,2025-01-17,Hauwa Sule,Female,Kenya,Clothing,Jacket,1,70000,Cash
+S10576,2025-08-22,Blessing Okafor,Female,United Kingdom,Clothing,Jacket,5,70000,Card
+S10577,2025-02-09,Anthony Brown,Female,Kenya,Groceries,Cooking Oil,3,32000,Mobile Money
+S10578,2025-01-29,John Williams,Female,South Africa,Furniture,Desk,5,150000,Mobile Money
+S10579,2025-10-15,Daniel Adeyemi,Female,Ghana,Clothing,Jeans,9,28000,Mobile Money
+S10580,2025-03-13,Mary Johnson,Female,Nigeria,Furniture,Desk,3,150000,Mobile Money
+S10581,2025-08-06,Victor Chukwu,Female,South Africa,Furniture,Desk,5,150000,Bank Transfer
+S10582,2025-07-20,Ibrahim Yusuf,Male,Ghana,Electronics,Headphones,5,45000,Mobile Money
+S10583,2025-06-07,Fatima Ibrahim,Female,Kenya,Electronics,Headphones,9,45000,Bank Transfer
+S10584,2025-04-27,Daniel Adeyemi,Female,United States,Groceries,Rice,10,85000,Card
+S10585,2025-06-14,Blessing Okafor,Female,United States,Clothing,Sneakers,8,55000,Cash
+S10586,2025-09-18,Mary Johnson,Male,United States,Furniture,Bookshelf,6,85000,Mobile Money
+S10587,2025-09-30,Ibrahim Yusuf,Female,Ghana,Furniture,Office Chair,6,95000,Bank Transfer
+S10588,2025-11-16,Fatima Ibrahim,Female,Kenya,Groceries,Sugar,10,18000,Mobile Money
+S10589,2025-07-04,Aisha Bello,Male,United States,Furniture,Desk,4,150000,Bank Transfer
+S10590,2025-09-08,Sarah Ahmed,Male,Nigeria,Electronics,Smartphone,2,280000,Mobile Money
+S10591,2025-07-20,Hauwa Sule,Male,Nigeria,Electronics,Laptop,5,450000,Card
+S10592,2025-01-21,Samuel Obi,Male,United States,Electronics,Headphones,5,45000,Mobile Money
+S10593,2025-05-28,Ibrahim Yusuf,Male,Nigeria,Clothing,Jeans,6,28000,Bank Transfer
+S10594,2025-02-12,Victor Chukwu,Female,Ghana,Furniture,Table,9,120000,Card
+S10595,2025-06-30,Victor Chukwu,Female,Kenya,Furniture,Table,8,120000,Card
+S10596,2025-09-01,John Williams,Female,Kenya,Electronics,Headphones,3,45000,Bank Transfer
+S10597,2025-09-03,Mary Johnson,Female,Kenya,Electronics,Laptop,8,450000,Cash
+S10598,2025-05-05,Aisha Bello,Female,Kenya,Furniture,Table,10,120000,Card
+S10599,2025-08-28,Peter Osei,Female,South Africa,Electronics,Tablet,4,180000,Card
+S10600,2025-10-31,Fatima Ibrahim,Male,South Africa,Furniture,Table,4,120000,Bank Transfer
+S10601,2025-06-02,Esther Eze,Male,Ghana,Groceries,Sugar,3,18000,Bank Transfer
+S10602,2025-07-08,Fatima Ibrahim,Female,Ghana,Electronics,Headphones,6,45000,Cash
+S10603,2025-05-11,Ibrahim Yusuf,Male,Kenya,Clothing,T-Shirt,5,12000,Card
+S10604,2025-10-19,Grace Musa,Male,Nigeria,Furniture,Office Chair,8,95000,Card
+S10605,2025-07-27,Anthony Brown,Female,South Africa,Groceries,Cereal,1,9500,Bank Transfer
+S10606,2025-10-18,Fatima Ibrahim,Female,Nigeria,Electronics,Smartphone,9,280000,Mobile Money
+S10607,2025-03-24,Sarah Ahmed,Male,Nigeria,Clothing,Jeans,4,28000,Mobile Money
+S10608,2025-02-18,Esther Eze,Female,United States,Furniture,Desk,2,150000,Card
+S10609,2025-07-21,Blessing Okafor,Male,United States,Furniture,Table,1,120000,Cash
+S10610,2025-06-17,Esther Eze,Female,Nigeria,Groceries,Cereal,4,9500,Cash
+S10611,2025-11-12,Aisha Bello,Male,Kenya,Clothing,Jacket,10,70000,Cash
+S10612,2025-10-10,David Okoro,Female,United States,Furniture,Desk,10,150000,Card
+S10613,2025-07-20,Ibrahim Yusuf,Female,Nigeria,Groceries,Rice,10,85000,Bank Transfer
+S10614,2025-02-08,Mary Johnson,Male,Ghana,Electronics,Laptop,8,450000,Card
+S10615,2025-08-03,Esther Eze,Male,United States,Groceries,Sugar,7,18000,Bank Transfer
+S10616,2025-03-30,Anthony Brown,Female,United Kingdom,Clothing,Sneakers,5,55000,Mobile Money
+S10617,2025-09-14,Blessing Okafor,Female,Kenya,Clothing,Jeans,10,28000,Card
+S10618,2025-10-31,Michael James,Female,United Kingdom,Electronics,Smartphone,6,280000,Mobile Money
+S10619,2025-11-17,Aisha Bello,Female,United Kingdom,Electronics,Headphones,4,45000,Bank Transfer
+S10620,2025-09-07,Hauwa Sule,Female,United Kingdom,Electronics,Headphones,3,45000,Bank Transfer
+S10621,2025-07-21,Daniel Adeyemi,Male,United Kingdom,Groceries,Cereal,2,9500,Cash
+S10622,2025-04-30,Esther Eze,Male,South Africa,Clothing,Jeans,4,28000,Cash
+S10623,2025-12-04,Hauwa Sule,Female,Nigeria,Electronics,Headphones,6,45000,Card
+S10624,2025-01-16,Anthony Brown,Male,South Africa,Electronics,Laptop,1,450000,Bank Transfer
+S10625,2025-06-15,Emeka Nwosu,Female,United Kingdom,Furniture,Bookshelf,1,85000,Cash
+S10626,2025-01-05,Hauwa Sule,Male,Nigeria,Groceries,Rice,4,85000,Mobile Money
+S10627,2025-02-16,Samuel Obi,Male,United Kingdom,Clothing,Jeans,9,28000,Mobile Money
+S10628,2025-02-03,Peter Osei,Male,Ghana,Electronics,Tablet,3,180000,Mobile Money
+S10629,2025-02-13,John Williams,Female,United Kingdom,Groceries,Cooking Oil,6,32000,Bank Transfer
+S10630,2025-11-24,Emeka Nwosu,Male,United Kingdom,Furniture,Table,9,120000,Card
+S10631,2025-04-11,Joy Emmanuel,Female,South Africa,Furniture,Bookshelf,1,85000,Cash
+S10632,2025-04-06,Mary Johnson,Female,Nigeria,Groceries,Rice,5,85000,Card
+S10633,2025-08-10,Fatima Ibrahim,Male,Nigeria,Clothing,Sneakers,1,55000,Mobile Money
+S10634,2025-10-24,Fatima Ibrahim,Female,United Kingdom,Groceries,Cooking Oil,4,32000,Card
+S10635,2025-04-06,Ruth Adams,Female,United Kingdom,Groceries,Sugar,4,18000,Cash
+S10636,2025-12-25,Anthony Brown,Male,United Kingdom,Groceries,Cereal,5,9500,Cash
+S10637,2025-09-20,Blessing Okafor,Female,South Africa,Furniture,Office Chair,7,95000,Cash
+S10638,2025-02-07,David Okoro,Female,United Kingdom,Clothing,T-Shirt,1,12000,Bank Transfer
+S10639,2025-01-18,Samuel Obi,Male,Nigeria,Clothing,Sneakers,7,55000,Mobile Money
+S10640,2025-08-11,Michael James,Female,Ghana,Electronics,Smartphone,3,280000,Bank Transfer
+S10641,2025-10-04,Victor Chukwu,Female,Kenya,Electronics,Headphones,2,45000,Mobile Money
+S10642,2025-12-06,Anthony Brown,Male,South Africa,Furniture,Desk,7,150000,Card
+S10643,2025-06-18,Fatima Ibrahim,Female,Kenya,Clothing,Jeans,10,28000,Cash
+S10644,2025-02-09,John Williams,Female,Ghana,Electronics,Headphones,6,45000,Bank Transfer
+S10645,2025-03-25,John Williams,Female,United Kingdom,Electronics,Tablet,3,180000,Mobile Money
+S10646,2025-06-17,John Williams,Male,United States,Electronics,Smartphone,2,280000,Cash
+S10647,2025-02-24,Michael James,Male,Kenya,Electronics,Smartphone,2,280000,Bank Transfer
+S10648,2025-12-30,Blessing Okafor,Male,United States,Furniture,Table,9,120000,Card
+S10649,2025-09-28,Emeka Nwosu,Male,United States,Clothing,Sneakers,1,55000,Mobile Money
+S10650,2025-02-12,David Okoro,Female,Ghana,Electronics,Tablet,10,180000,Bank Transfer
+S10651,2025-06-28,Grace Musa,Female,United States,Electronics,Headphones,5,45000,Bank Transfer
+S10652,2025-09-05,Sarah Ahmed,Male,South Africa,Electronics,Laptop,9,450000,Cash
+S10653,2025-09-12,Grace Musa,Male,Ghana,Groceries,Cereal,9,9500,Mobile Money
+S10654,2025-06-14,Hauwa Sule,Female,Kenya,Electronics,Laptop,8,450000,Mobile Money
+S10655,2025-05-08,John Williams,Female,United States,Clothing,,5,12000,Card
+S10656,2025-06-26,Sarah Ahmed,Male,United Kingdom,Groceries,Rice,5,85000,Card
+S10657,2025-12-07,Mary Johnson,Male,United States,Clothing,Sneakers,7,55000,Card
+S10658,2025-05-19,Peter Osei,Female,United Kingdom,Furniture,Desk,6,150000,Mobile Money
+S10659,2025-06-17,Ruth Adams,Male,Ghana,Clothing,Jeans,5,28000,Card
+S10660,2025-08-18,Blessing Okafor,Male,United Kingdom,Furniture,Desk,9,150000,Cash
+S10661,2025-11-30,Aisha Bello,Female,South Africa,Clothing,Sneakers,7,55000,Bank Transfer
+S10662,2025-05-11,Esther Eze,Male,Ghana,Furniture,Bookshelf,3,85000,Cash
+S10663,2025-07-29,Samuel Obi,Male,Kenya,Groceries,Cooking Oil,2,32000,Mobile Money
+S10664,2025-01-16,Ibrahim Yusuf,Female,South Africa,Clothing,Jacket,8,70000,Card
+S10665,2025-06-05,David Okoro,Female,Nigeria,Clothing,Jeans,5,28000,Mobile Money
+S10666,2025-04-09,Grace Musa,Male,South Africa,Clothing,Jeans,10,28000,Mobile Money
+S10667,2025-11-12,Peter Osei,Female,Nigeria,Groceries,Cereal,10,9500,Mobile Money
+S10668,2025-01-30,David Okoro,Male,South Africa,Groceries,Cereal,8,9500,Cash
+S10669,2025-05-08,Victor Chukwu,Female,United Kingdom,Clothing,Jacket,1,70000,Card
+S10670,2025-12-21,Michael James,Female,South Africa,Groceries,Cereal,3,9500,Mobile Money
+S10671,2025-04-24,Mary Johnson,Female,United States,Groceries,Rice,8,85000,Cash
+S10672,2025-11-18,Sarah Ahmed,Female,Kenya,Electronics,Smartphone,8,280000,Cash
+S10673,2025-07-30,Joy Emmanuel,Male,Kenya,Clothing,Jacket,6,70000,Card
+S10674,2025-10-31,Joy Emmanuel,Female,Nigeria,Electronics,Laptop,9,450000,Mobile Money
+S10675,2025-06-22,David Okoro,Male,Kenya,Clothing,Jacket,10,70000,Card
+S10676,2025-04-26,David Okoro,Female,Kenya,Clothing,Jeans,5,28000,Mobile Money
+S10677,2025-09-27,Mary Johnson,Male,Nigeria,Groceries,Cooking Oil,10,32000,Bank Transfer
+S10678,2025-12-21,Anthony Brown,Male,United Kingdom,Electronics,Headphones,8,45000,Card
+S10679,2025-12-05,Peter Osei,Female,Nigeria,Clothing,Jacket,10,70000,Cash
+S10680,2025-06-21,David Okoro,Male,Ghana,Clothing,Sneakers,1,55000,Bank Transfer
+S10681,2025-03-06,Ruth Adams,Female,Kenya,Electronics,Smartphone,2,280000,Cash
+S10682,2025-03-31,Ibrahim Yusuf,Female,United Kingdom,Electronics,Headphones,10,45000,Card
+S10683,2025-06-03,Grace Musa,Female,Kenya,Furniture,Bookshelf,6,85000,Mobile Money
+S10684,2025-12-09,Michael James,Female,Ghana,Electronics,Headphones,2,45000,Bank Transfer
+S10685,2025-04-10,Esther Eze,Male,United Kingdom,Groceries,Cereal,1,9500,Cash
+S10686,2025-08-27,Peter Osei,Female,Kenya,Electronics,Headphones,9,45000,Bank Transfer
+S10687,2025-01-29,Anthony Brown,Female,Ghana,Clothing,Jacket,10,70000,Card
+S10688,2025-04-15,Daniel Adeyemi,Male,South Africa,Groceries,Cooking Oil,2,32000,Card
+S10689,2025-02-26,Blessing Okafor,Female,United Kingdom,Furniture,Table,4,120000,Cash
+S10690,2025-03-14,Grace Musa,Female,Kenya,Clothing,Sneakers,9,55000,Bank Transfer
+S10691,2025-08-30,Blessing Okafor,Female,United States,Electronics,Laptop,10,450000,Cash
+S10692,2025-06-23,Blessing Okafor,Female,South Africa,Clothing,Jeans,1,28000,Card
+S10693,2025-09-16,Victor Chukwu,Female,South Africa,Furniture,Desk,7,150000,Cash
+S10694,2025-11-29,Esther Eze,Female,Kenya,Groceries,Sugar,2,18000,Card
+S10695,2025-05-02,Sarah Ahmed,Male,United Kingdom,Groceries,Rice,10,85000,Mobile Money
+S10696,2025-05-04,Blessing Okafor,Male,Kenya,Clothing,T-Shirt,7,12000,Cash
+S10697,2025-02-09,Joy Emmanuel,Female,Ghana,Furniture,Desk,9,150000,Bank Transfer
+S10698,2025-09-24,David Okoro,Male,Nigeria,Clothing,T-Shirt,8,12000,Cash
+S10699,2025-11-24,Blessing Okafor,Female,United States,Furniture,Desk,9,150000,Bank Transfer
+S10700,2025-05-30,Hauwa Sule,Male,Ghana,Groceries,Cooking Oil,1,32000,Mobile Money
+S10701,2025-01-30,Michael James,Male,United States,Furniture,Office Chair,10,95000,Cash
+S10702,2025-12-02,Daniel Adeyemi,Female,Nigeria,Groceries,Cereal,10,9500,Bank Transfer
+S10703,2025-12-30,Esther Eze,Female,Kenya,Clothing,Sneakers,9,55000,Bank Transfer
+S10704,2025-09-04,Mary Johnson,Male,Kenya,Furniture,Office Chair,2,95000,Cash
+S10705,2025-07-12,Victor Chukwu,Female,Kenya,Electronics,Smartphone,3,280000,Bank Transfer
+S10706,2025-10-01,Michael James,Female,United Kingdom,Clothing,Jeans,8,28000,Cash
+S10707,2025-06-09,David Okoro,Male,South Africa,Clothing,T-Shirt,1,12000,Cash
+S10708,2025-11-12,Emeka Nwosu,Female,United Kingdom,Furniture,Table,6,120000,Bank Transfer
+S10709,2025-06-10,Joy Emmanuel,Male,Nigeria,Groceries,Cooking Oil,8,32000,Cash
+S10710,2025-12-21,Anthony Brown,Male,Ghana,Furniture,Bookshelf,3,85000,Bank Transfer
+S10711,2025-07-14,Blessing Okafor,Female,South Africa,Groceries,Cereal,8,9500,Cash
+S10712,2025-08-30,John Williams,Female,South Africa,Electronics,Headphones,3,45000,Bank Transfer
+S10713,2025-10-13,Daniel Adeyemi,Female,United States,Groceries,Cooking Oil,2,32000,Bank Transfer
+S10714,2025-10-05,Joy Emmanuel,Female,United Kingdom,Electronics,Tablet,7,180000,Card
+S10715,2025-12-17,Sarah Ahmed,Male,Kenya,Clothing,Jeans,4,28000,Mobile Money
+S10716,2025-05-17,Ibrahim Yusuf,Male,United States,Furniture,Bookshelf,10,85000,Mobile Money
+S10717,2025-07-28,Victor Chukwu,Male,South Africa,Electronics,Headphones,3,45000,Bank Transfer
+S10718,2025-10-10,Emeka Nwosu,Female,Kenya,Furniture,Office Chair,8,95000,Cash
+S10719,2025-09-23,Ruth Adams,Male,Ghana,Electronics,Smartphone,3,280000,Mobile Money
+S10720,2025-11-25,Esther Eze,Male,United States,Groceries,Cereal,6,9500,Bank Transfer
+S10721,2025-01-09,Grace Musa,Male,United Kingdom,Groceries,Cereal,9,9500,Mobile Money
+S10722,2025-09-10,John Williams,Male,Nigeria,Clothing,Sneakers,9,55000,Bank Transfer
+S10723,2025-11-01,Samuel Obi,Female,United States,Electronics,Tablet,10,180000,Mobile Money
+S10724,2025-09-03,Sarah Ahmed,Female,United Kingdom,Groceries,Cereal,4,9500,Card
+S10725,2025-10-08,Victor Chukwu,Female,Kenya,Furniture,Desk,7,150000,Card
+S10726,2025-05-02,Aisha Bello,Male,United States,Groceries,Cooking Oil,1,32000,Card
+S10727,2025-05-16,Grace Musa,Male,United States,Furniture,Table,7,120000,Mobile Money
+S10728,2025-09-15,Hauwa Sule,Female,United Kingdom,Furniture,Desk,8,150000,Mobile Money
+S10729,2025-01-22,Peter Osei,Male,United Kingdom,Groceries,Cooking Oil,8,32000,Card
+S10730,2025-02-21,David Okoro,Male,United Kingdom,Groceries,Cereal,8,9500,Bank Transfer
+S10731,2025-10-06,Mary Johnson,Female,South Africa,Electronics,Headphones,9,45000,Cash
+S10732,2025-09-16,Grace Musa,Female,United Kingdom,Electronics,Smartphone,1,280000,Bank Transfer
+S10733,2025-11-19,Hauwa Sule,Female,United Kingdom,Electronics,Headphones,6,45000,Mobile Money
+S10734,2025-11-17,Ibrahim Yusuf,Male,United States,Groceries,Sugar,10,18000,Bank Transfer
+S10735,2025-12-13,Ruth Adams,Male,United Kingdom,Groceries,Rice,1,85000,Bank Transfer
+S10736,2025-02-03,Grace Musa,Male,United Kingdom,Electronics,Tablet,2,180000,Bank Transfer
+S10737,2025-01-06,Fatima Ibrahim,Female,Nigeria,Groceries,Cooking Oil,2,32000,Card
+S10738,2025-03-15,Ibrahim Yusuf,Female,United States,Clothing,Jacket,4,70000,Mobile Money
+S10739,2025-12-01,Grace Musa,Male,United Kingdom,Clothing,T-Shirt,3,12000,Mobile Money
+S10740,2025-10-12,Joy Emmanuel,Male,Ghana,Furniture,Table,10,120000,Bank Transfer
+S10741,2025-05-20,David Okoro,Male,South Africa,Electronics,Tablet,7,180000,Mobile Money
+S10742,2025-11-19,Samuel Obi,Female,United States,Groceries,Cereal,7,9500,Mobile Money
+S10743,2025-04-01,Peter Osei,Male,Kenya,Groceries,Cooking Oil,8,32000,Mobile Money
+S10744,2025-07-22,Victor Chukwu,Female,South Africa,Groceries,Rice,10,85000,Bank Transfer
+S10745,2025-06-15,Daniel Adeyemi,Female,United States,Groceries,Sugar,10,18000,Mobile Money
+S10746,2025-10-16,Hauwa Sule,Female,United States,Furniture,Desk,3,150000,Bank Transfer
+S10747,2025-07-31,Aisha Bello,Female,Nigeria,Electronics,Laptop,9,450000,Cash
+S10748,2025-11-19,Michael James,Female,Ghana,Furniture,Bookshelf,1,85000,Cash
+S10749,2025-01-18,Emeka Nwosu,Male,United States,Electronics,Laptop,2,450000,Cash
+S10750,2025-04-20,Daniel Adeyemi,Male,Kenya,Clothing,Jacket,5,70000,Mobile Money
+S10751,2025-06-14,Peter Osei,,Kenya,Electronics,Headphones,3,45000,Cash
+S10752,2025-11-27,Sarah Ahmed,Female,Nigeria,Groceries,Rice,5,85000,Bank Transfer
+S10753,2025-05-06,Anthony Brown,Male,United Kingdom,Clothing,Jacket,7,70000,Card
+S10754,2025-09-19,Victor Chukwu,Female,Ghana,Furniture,Office Chair,10,95000,Cash
+S10755,2025-10-25,David Okoro,Male,Nigeria,Furniture,Bookshelf,10,85000,Bank Transfer
+S10756,2025-12-26,Mary Johnson,Male,Nigeria,Furniture,Office Chair,7,95000,Bank Transfer
+S10757,2025-07-27,Ruth Adams,Male,United Kingdom,Clothing,Sneakers,8,55000,Mobile Money
+S10758,2025-02-07,Victor Chukwu,Male,Nigeria,Furniture,Table,7,120000,Mobile Money
+S10759,2025-05-17,Michael James,Female,Nigeria,Electronics,Tablet,2,180000,Bank Transfer
+S10760,2025-08-16,Michael James,Male,Ghana,Groceries,Rice,9,85000,Cash
+S10761,2025-07-21,Sarah Ahmed,Male,United States,Furniture,Desk,6,150000,Mobile Money
+S10762,2025-02-10,Mary Johnson,Male,Ghana,Electronics,Headphones,1,45000,Card
+S10763,2025-09-02,Victor Chukwu,Female,South Africa,Furniture,Table,9,120000,Mobile Money
+S10764,2025-06-06,David Okoro,Female,United States,Electronics,Laptop,1,450000,Mobile Money
+S10765,2025-12-06,Joy Emmanuel,Male,United States,Electronics,Smartphone,10,280000,Card
+S10766,2025-10-28,Anthony Brown,Male,South Africa,Electronics,Laptop,10,450000,Cash
+S10767,2025-05-01,Ibrahim Yusuf,Male,Kenya,Clothing,Jeans,2,28000,Mobile Money
+S10768,2025-09-28,Daniel Adeyemi,Female,United Kingdom,Clothing,T-Shirt,10,12000,Card
+S10769,2025-10-27,Blessing Okafor,Female,Kenya,Electronics,Smartphone,2,280000,Card
+S10770,2025-10-18,Ruth Adams,Male,Kenya,Groceries,Cooking Oil,2,32000,Cash
+S10771,2025-07-29,Ibrahim Yusuf,Female,United Kingdom,Groceries,Cooking Oil,3,32000,Mobile Money
+S10772,2025-11-03,Daniel Adeyemi,Female,Ghana,Clothing,T-Shirt,1,12000,Mobile Money
+S10773,2025-03-17,Ibrahim Yusuf,Male,United States,Electronics,Laptop,10,450000,Bank Transfer
+S10774,2025-05-14,Esther Eze,Male,United States,Furniture,Table,5,120000,Mobile Money
+S10775,2025-07-03,Emeka Nwosu,Male,United Kingdom,Furniture,Desk,3,150000,Mobile Money
+S10776,2025-06-13,Peter Osei,Male,United Kingdom,Electronics,Tablet,4,180000,Card
+S10777,2025-04-03,Victor Chukwu,Male,South Africa,Electronics,Laptop,4,450000,Bank Transfer
+S10778,2025-07-07,Mary Johnson,Female,South Africa,Electronics,Smartphone,3,280000,Card
+S10779,2025-10-18,Michael James,Male,South Africa,Electronics,Laptop,5,450000,Bank Transfer
+S10780,2025-06-24,David Okoro,Male,Ghana,Furniture,Office Chair,1,95000,Mobile Money
+S10781,2025-05-18,Joy Emmanuel,Female,South Africa,Electronics,Laptop,4,450000,Bank Transfer
+S10782,2025-04-15,Samuel Obi,Male,Ghana,Clothing,T-Shirt,7,12000,Card
+S10783,2025-03-01,Anthony Brown,Female,Nigeria,Furniture,Desk,7,150000,Card
+S10784,2025-04-26,Sarah Ahmed,Female,Ghana,Clothing,Jacket,8,70000,Card
+S10785,2025-07-28,Blessing Okafor,Male,Nigeria,Groceries,Sugar,10,18000,Cash
+S10786,2025-07-01,Joy Emmanuel,Female,South Africa,Groceries,Cooking Oil,3,32000,Bank Transfer
+S10787,2025-03-30,Emeka Nwosu,Male,United Kingdom,Clothing,Sneakers,9,55000,Card
+S10788,2025-08-19,Anthony Brown,Male,United Kingdom,Electronics,Headphones,8,45000,Mobile Money
+S10789,2025-07-20,Samuel Obi,Male,Kenya,Groceries,Rice,7,85000,Card
+S10790,2025-04-08,David Okoro,Male,South Africa,Clothing,T-Shirt,9,12000,Cash
+S10791,2025-11-15,Daniel Adeyemi,Female,South Africa,Furniture,Table,4,120000,Cash
+S10792,2025-03-23,Mary Johnson,Female,Kenya,Electronics,Headphones,4,45000,Cash
+S10793,2025-04-16,Ibrahim Yusuf,Female,United Kingdom,Electronics,Headphones,10,45000,Cash
+S10794,2025-07-18,Sarah Ahmed,Male,Kenya,Furniture,Table,8,120000,Cash
+S10795,2025-09-15,Hauwa Sule,Male,Kenya,Electronics,Headphones,7,45000,Bank Transfer
+S10796,2025-07-13,David Okoro,Female,Nigeria,Clothing,T-Shirt,2,12000,Mobile Money
+S10797,2025-05-10,John Williams,Female,Ghana,Groceries,Cereal,9,9500,Cash
+S10798,2025-12-15,Samuel Obi,Male,United States,Clothing,Jeans,8,28000,Card
+S10799,2025-03-09,Fatima Ibrahim,Female,Kenya,Clothing,Sneakers,1,55000,Cash
+S10800,2025-02-10,Anthony Brown,Male,South Africa,Groceries,Sugar,9,18000,Bank Transfer
+S10801,2025-11-02,Esther Eze,Female,Nigeria,Furniture,Bookshelf,2,85000,Mobile Money
+S10802,2025-07-22,Daniel Adeyemi,Male,Kenya,Clothing,Sneakers,2,55000,Card
+S10803,2025-11-08,Hauwa Sule,Male,Kenya,Furniture,Desk,7,150000,Card
+S10804,2025-03-01,Joy Emmanuel,Male,Kenya,Furniture,Bookshelf,4,85000,Cash
+S10805,2025-07-22,Blessing Okafor,Female,United Kingdom,Electronics,Smartphone,6,280000,Bank Transfer
+S10806,2025-04-17,Michael James,Male,Kenya,Furniture,Table,3,120000,Bank Transfer
+S10807,2025-05-07,Michael James,Male,Ghana,Clothing,Jacket,6,70000,Bank Transfer
+S10808,2025-11-30,Victor Chukwu,Female,Ghana,Furniture,Desk,3,150000,Card
+S10809,2025-10-09,David Okoro,Female,United Kingdom,Clothing,Jeans,3,28000,Mobile Money
+S10810,2025-07-05,Esther Eze,Male,United States,Groceries,Sugar,6,18000,Bank Transfer
+S10811,2025-03-11,Victor Chukwu,Male,United Kingdom,Clothing,Sneakers,5,55000,Cash
+S10812,2025-10-18,Mary Johnson,Female,Kenya,Electronics,Headphones,3,45000,Cash
+S10813,2025-01-31,Michael James,Male,United Kingdom,Groceries,Sugar,8,18000,Bank Transfer
+S10814,2025-10-03,Mary Johnson,Male,Kenya,Electronics,Headphones,1,45000,Mobile Money
+S10815,2025-10-22,Grace Musa,Female,Nigeria,Clothing,Jacket,10,70000,Card
+S10816,2025-02-18,Aisha Bello,Male,United Kingdom,Clothing,Sneakers,8,55000,Cash
+S10817,2025-11-27,Blessing Okafor,Male,United States,Furniture,Desk,6,150000,Mobile Money
+S10818,2025-05-04,Sarah Ahmed,Female,Nigeria,Clothing,Jacket,5,70000,Bank Transfer
+S10819,2025-03-31,Victor Chukwu,Male,Ghana,Groceries,Sugar,8,18000,Mobile Money
+S10820,2025-02-22,Peter Osei,Female,Ghana,Furniture,Bookshelf,10,85000,Cash
+S10821,2025-10-18,Anthony Brown,Female,Nigeria,Clothing,Jeans,10,28000,Mobile Money
+S10822,2025-09-13,Fatima Ibrahim,Female,Ghana,Electronics,Laptop,9,450000,Mobile Money
+S10823,2025-01-15,Sarah Ahmed,Female,United Kingdom,Clothing,Jeans,8,28000,Cash
+S10824,2025-07-16,Victor Chukwu,Female,Ghana,Groceries,Sugar,1,18000,Cash
+S10825,2025-06-18,Anthony Brown,Male,United States,Clothing,Sneakers,5,55000,Mobile Money
+S10826,2025-11-04,Aisha Bello,Male,Kenya,,Jacket,8,70000,Cash
+S10827,2025-06-06,Fatima Ibrahim,Female,United States,Groceries,Cereal,2,9500,Bank Transfer
+S10828,2025-08-10,Ruth Adams,Male,Ghana,Electronics,Tablet,6,180000,Mobile Money
+S10829,2025-05-11,David Okoro,Female,Kenya,Clothing,Sneakers,7,55000,Bank Transfer
+S10830,2025-11-16,Hauwa Sule,Male,United Kingdom,Electronics,Tablet,4,180000,Card
+S10831,2025-06-08,Blessing Okafor,Female,Kenya,Electronics,Smartphone,6,280000,Cash
+S10832,2025-08-21,Mary Johnson,Female,Kenya,Groceries,Cooking Oil,8,32000,Mobile Money
+S10833,2025-06-26,Esther Eze,Male,United Kingdom,Groceries,Cooking Oil,4,32000,Card
+S10834,2025-09-24,Grace Musa,Male,Ghana,Electronics,Headphones,1,45000,Mobile Money
+S10835,2025-07-23,Mary Johnson,Female,United Kingdom,Groceries,Sugar,9,18000,Bank Transfer
+S10836,2025-06-26,Daniel Adeyemi,Male,Ghana,Clothing,Sneakers,3,55000,Card
+S10837,2025-11-05,Mary Johnson,Male,South Africa,Groceries,Cooking Oil,2,32000,Cash
+S10838,2025-03-23,David Okoro,Male,Nigeria,Electronics,Headphones,1,45000,Cash
+S10839,2025-03-20,David Okoro,Male,Kenya,Furniture,Office Chair,1,95000,Cash
+S10840,2025-08-20,Ibrahim Yusuf,Female,Nigeria,Electronics,Smartphone,2,280000,Card
+S10841,2025-05-23,Ibrahim Yusuf,Male,United Kingdom,Groceries,Sugar,10,18000,Cash
+S10842,2025-03-31,Esther Eze,Male,Kenya,Electronics,Laptop,3,450000,Cash
+S10843,2025-05-28,Anthony Brown,Female,United States,Electronics,Smartphone,10,280000,Card
+S10844,2025-11-08,John Williams,Female,South Africa,Furniture,Office Chair,4,95000,Card
+S10845,2025-10-04,Daniel Adeyemi,Female,Nigeria,Furniture,Office Chair,9,95000,Card
+S10846,2025-07-14,Victor Chukwu,Male,Nigeria,Furniture,Bookshelf,6,85000,Mobile Money
+S10847,2025-01-28,Joy Emmanuel,Female,United States,Electronics,Headphones,8,45000,Card
+S10848,2025-02-09,Esther Eze,Male,South Africa,Furniture,Bookshelf,6,85000,Card
+S10849,2025-03-05,Sarah Ahmed,Female,United Kingdom,Electronics,Headphones,2,45000,Cash
+S10850,2025-12-21,Ruth Adams,Male,United States,Clothing,Jacket,3,70000,Cash
+S10851,2025-08-07,Esther Eze,Female,Nigeria,Groceries,Cooking Oil,4,32000,Mobile Money
+S10852,2025-06-04,Sarah Ahmed,Female,South Africa,Furniture,Bookshelf,10,85000,Mobile Money
+S10853,2025-09-26,Joy Emmanuel,Male,Nigeria,,Bookshelf,5,85000,Mobile Money
+S10854,2025-01-07,Aisha Bello,Male,United States,Furniture,Desk,1,150000,Cash
+S10855,2025-01-28,Sarah Ahmed,Female,Ghana,Furniture,Office Chair,5,95000,Cash
+S10856,2025-09-20,Esther Eze,Female,United States,Electronics,Headphones,8,45000,Mobile Money
+S10857,2025-05-26,David Okoro,Female,Nigeria,Groceries,Sugar,7,18000,Mobile Money
+S10858,2025-05-18,Joy Emmanuel,Male,Nigeria,Groceries,Cereal,3,9500,Bank Transfer
+S10859,2025-10-08,Mary Johnson,Female,United States,Clothing,Jacket,7,70000,Mobile Money
+S10860,2025-05-19,Anthony Brown,Male,United Kingdom,Electronics,Headphones,1,45000,Mobile Money
+S10861,2025-10-10,Emeka Nwosu,Female,Kenya,Groceries,Cereal,6,9500,Cash
+S10862,2025-10-02,John Williams,Female,United States,Electronics,Laptop,10,450000,Cash
+S10863,2025-10-12,Peter Osei,Female,Kenya,Groceries,Cereal,7,9500,Bank Transfer
+S10864,2025-05-14,Samuel Obi,Female,United Kingdom,Electronics,Smartphone,2,280000,Cash
+S10865,2025-05-18,Ibrahim Yusuf,Male,United Kingdom,Groceries,Rice,6,85000,Cash
+S10866,2025-08-21,Peter Osei,Female,Nigeria,Furniture,Table,8,120000,Cash
+S10867,2025-07-24,Blessing Okafor,Male,South Africa,Groceries,Cereal,2,9500,Card
+S10868,2025-10-18,Blessing Okafor,Male,United Kingdom,Groceries,Cereal,5,9500,Bank Transfer
+S10869,2025-10-15,Grace Musa,Male,Kenya,Furniture,Desk,5,150000,Cash
+S10870,2025-04-11,Emeka Nwosu,Male,United States,Groceries,Cereal,10,9500,Cash
+S10871,2025-09-30,Ruth Adams,Female,South Africa,Groceries,Sugar,4,18000,Bank Transfer
+S10872,2025-01-02,Michael James,Female,United States,Electronics,Tablet,9,180000,Bank Transfer
+S10873,2025-05-01,Fatima Ibrahim,Female,United States,Clothing,Jacket,9,70000,Card
+S10874,2025-04-21,Esther Eze,Female,Kenya,Electronics,Smartphone,9,280000,Mobile Money
+S10875,2025-01-05,Joy Emmanuel,Male,Ghana,Electronics,Smartphone,3,280000,Bank Transfer
+S10876,2025-07-03,Grace Musa,Male,South Africa,Furniture,Table,5,120000,Bank Transfer
+S10877,2025-04-09,Sarah Ahmed,Male,Nigeria,Clothing,Sneakers,3,55000,Card
+S10878,2025-06-06,Joy Emmanuel,Female,United Kingdom,Electronics,Smartphone,7,280000,Mobile Money
+S10879,2025-03-23,Fatima Ibrahim,Male,Nigeria,Electronics,Smartphone,5,280000,Bank Transfer
+S10880,2025-08-21,Aisha Bello,Male,Nigeria,Clothing,T-Shirt,6,12000,Bank Transfer
+S10881,2025-06-28,Grace Musa,Female,United States,Electronics,Headphones,3,45000,Card
+S10882,2025-05-14,Ruth Adams,Female,South Africa,Electronics,Laptop,2,450000,Card
+S10883,2025-12-06,Ruth Adams,Female,United States,Electronics,Tablet,4,180000,Mobile Money
+S10884,2025-12-20,Ibrahim Yusuf,Male,Kenya,Clothing,Jeans,8,28000,Mobile Money
+S10885,2025-04-28,Victor Chukwu,Female,United States,Groceries,Rice,2,85000,Bank Transfer
+S10886,2025-01-07,Fatima Ibrahim,Male,Kenya,Furniture,Table,8,120000,Bank Transfer
+S10887,2025-06-22,David Okoro,Male,Kenya,Groceries,Rice,9,85000,Mobile Money
+S10888,2025-01-31,Victor Chukwu,Male,South Africa,Groceries,Sugar,7,18000,Cash
+S10889,2025-09-29,Grace Musa,Male,Kenya,Furniture,Bookshelf,4,85000,Card
+S10890,2025-11-13,David Okoro,Female,Nigeria,Furniture,Bookshelf,8,85000,Mobile Money
+S10891,2025-04-09,Daniel Adeyemi,Male,United States,Furniture,Bookshelf,5,85000,Cash
+S10892,2025-03-02,Joy Emmanuel,Male,Nigeria,Groceries,Cereal,3,9500,Mobile Money
+S10893,2025-12-14,Esther Eze,Female,Kenya,Clothing,T-Shirt,10,12000,Cash
+S10894,2025-03-14,Hauwa Sule,Male,United Kingdom,Electronics,Smartphone,7,280000,Bank Transfer
+S10895,2025-04-07,Fatima Ibrahim,Male,United States,Furniture,Table,10,120000,Bank Transfer
+S10896,2025-06-05,Peter Osei,Female,Ghana,Groceries,Cooking Oil,7,32000,Mobile Money
+S10897,2025-08-16,Victor Chukwu,Male,Nigeria,Clothing,T-Shirt,8,12000,Card
+S10898,2025-04-23,Sarah Ahmed,Female,United Kingdom,Groceries,Cooking Oil,5,32000,Card
+S10899,2025-02-11,Ruth Adams,Male,Nigeria,Electronics,Tablet,9,180000,Mobile Money
+S10900,2025-01-19,Samuel Obi,Male,Ghana,Furniture,Table,5,120000,Bank Transfer
+S10901,2025-09-16,Peter Osei,Male,United Kingdom,Furniture,Table,4,120000,Bank Transfer
+S10902,2025-03-23,Peter Osei,Male,Nigeria,Clothing,Jacket,5,70000,Bank Transfer
+S10903,2025-10-01,John Williams,Female,Nigeria,Clothing,Jacket,1,70000,Mobile Money
+S10904,2025-04-24,Esther Eze,Female,United States,Clothing,Sneakers,7,55000,Bank Transfer
+S10905,2025-08-08,David Okoro,Female,Ghana,Electronics,Laptop,8,450000,Bank Transfer
+S10906,2025-04-10,Hauwa Sule,Female,Kenya,Electronics,Laptop,7,450000,Bank Transfer
+S10907,2025-08-30,Fatima Ibrahim,Male,United Kingdom,Clothing,T-Shirt,8,12000,Bank Transfer
+S10908,2025-05-25,Blessing Okafor,Female,Ghana,Furniture,Desk,5,150000,Cash
+S10909,2025-01-17,Anthony Brown,Female,United States,Groceries,Rice,6,85000,Mobile Money
+S10910,2025-10-12,Hauwa Sule,Female,South Africa,Groceries,Sugar,3,18000,Bank Transfer
+S10911,2025-03-10,David Okoro,Male,Ghana,Furniture,Desk,1,150000,Card
+S10912,2025-06-15,Fatima Ibrahim,Male,United States,Clothing,T-Shirt,8,12000,Mobile Money
+S10913,2025-07-04,Joy Emmanuel,Female,United States,Electronics,Headphones,9,45000,Mobile Money
+S10914,2025-07-06,Mary Johnson,Male,Kenya,Furniture,Table,2,120000,Card
+S10915,2025-08-18,Hauwa Sule,Female,United Kingdom,Groceries,Cooking Oil,10,32000,Card
+S10916,2025-05-15,Grace Musa,Male,South Africa,Electronics,Smartphone,2,280000,Bank Transfer
+S10917,2025-01-07,Sarah Ahmed,Female,United Kingdom,Electronics,Tablet,2,180000,Bank Transfer
+S10918,2025-07-29,Joy Emmanuel,Female,South Africa,Clothing,T-Shirt,5,12000,Cash
+S10919,2025-11-08,Blessing Okafor,Male,Ghana,Groceries,Rice,1,85000,Bank Transfer
+S10920,2025-07-02,Victor Chukwu,Female,Nigeria,Groceries,Rice,7,85000,Bank Transfer
+S10921,2025-07-30,Grace Musa,Male,Ghana,Clothing,Jeans,3,28000,Mobile Money
+S10922,2025-08-30,Daniel Adeyemi,Female,South Africa,Furniture,Bookshelf,7,85000,Bank Transfer
+S10923,2025-04-09,John Williams,Male,South Africa,Clothing,Sneakers,8,55000,Mobile Money
+S10924,2025-11-29,Grace Musa,Female,Kenya,Furniture,Bookshelf,10,85000,Card
+S10925,2025-10-12,David Okoro,Female,South Africa,Furniture,Table,4,120000,Card
+S10926,2025-07-12,Joy Emmanuel,Female,Nigeria,Furniture,Office Chair,8,95000,Bank Transfer
+S10927,2025-06-18,Samuel Obi,Female,Kenya,Clothing,Jeans,10,28000,Cash
+S10928,2025-08-18,Daniel Adeyemi,Female,South Africa,Electronics,Laptop,2,450000,Mobile Money
+S10929,2025-12-17,Ruth Adams,Male,United Kingdom,Groceries,Sugar,1,18000,Cash
+S10930,2025-03-28,Sarah Ahmed,Male,Nigeria,Furniture,Desk,7,150000,Bank Transfer
+S10931,2025-12-10,Emeka Nwosu,Female,Kenya,Groceries,Cereal,3,9500,Card
+S10932,2025-05-23,Daniel Adeyemi,Female,United Kingdom,Clothing,T-Shirt,1,12000,Cash
+S10933,2025-08-18,Ibrahim Yusuf,Female,South Africa,Furniture,Office Chair,7,95000,Mobile Money
+S10934,2025-10-08,Michael James,Male,Ghana,Groceries,Sugar,3,18000,Cash
+S10935,2025-07-24,Esther Eze,Male,Ghana,Clothing,T-Shirt,8,12000,Card
+S10936,2025-06-25,Grace Musa,Female,South Africa,Clothing,Jacket,3,70000,Mobile Money
+S10937,2025-02-08,Ibrahim Yusuf,Male,United States,Furniture,Office Chair,8,95000,Mobile Money
+S10938,2025-06-23,Ruth Adams,Male,Ghana,Furniture,Office Chair,5,95000,Mobile Money
+S10939,2025-07-27,Daniel Adeyemi,Female,South Africa,Electronics,Tablet,8,180000,Bank Transfer
+S10940,2025-05-26,Anthony Brown,Female,Ghana,Electronics,Headphones,1,45000,Cash
+S10941,2025-12-30,Fatima Ibrahim,Female,South Africa,Furniture,Bookshelf,2,85000,Mobile Money
+S10942,2025-07-15,Aisha Bello,Male,Kenya,Groceries,Cereal,4,9500,Mobile Money
+S10943,2025-02-20,Hauwa Sule,Male,United Kingdom,Groceries,Cereal,6,9500,Mobile Money
+S10944,2025-01-18,Peter Osei,Female,South Africa,Clothing,Sneakers,3,55000,Card
+S10945,2025-06-29,Mary Johnson,Male,Ghana,Groceries,Rice,3,85000,Mobile Money
+S10946,2025-05-20,Michael James,Male,Ghana,Electronics,Headphones,9,45000,Cash
+S10947,2025-05-28,John Williams,Male,Ghana,Electronics,Tablet,9,180000,Cash
+S10948,2025-10-22,Daniel Adeyemi,Male,Nigeria,Electronics,Tablet,9,180000,Card
+S10949,2025-06-12,John Williams,Male,United Kingdom,Furniture,Bookshelf,5,85000,Card
+S10950,2025-05-27,Joy Emmanuel,Male,Nigeria,Electronics,Laptop,10,450000,Cash
+S10951,2025-05-01,Daniel Adeyemi,Male,Kenya,Electronics,Laptop,3,450000,Bank Transfer
+S10952,2025-05-31,Mary Johnson,Female,Kenya,Furniture,Table,3,120000,Cash
+S10953,2025-09-24,Aisha Bello,Male,South Africa,Clothing,Jacket,6,70000,Bank Transfer
+S10954,2025-02-19,John Williams,Female,Kenya,Clothing,T-Shirt,4,12000,Card
+S10955,2025-03-22,Peter Osei,Female,South Africa,Furniture,Desk,8,150000,Bank Transfer
+S10956,2025-09-22,Aisha Bello,Male,Nigeria,Electronics,Headphones,6,45000,Bank Transfer
+S10957,2025-05-13,David Okoro,Female,Nigeria,Furniture,Desk,3,150000,Cash
+S10958,2025-09-21,Victor Chukwu,Female,United States,Groceries,Cereal,6,9500,Bank Transfer
+S10959,2025-02-20,Emeka Nwosu,Male,United States,Electronics,Tablet,7,180000,Mobile Money
+S10960,2025-03-15,Sarah Ahmed,Male,Kenya,Clothing,Jacket,2,70000,Cash
+S10961,2025-01-13,Hauwa Sule,Female,Ghana,Groceries,Cereal,2,9500,Bank Transfer
+S10962,2025-08-17,Aisha Bello,Female,Ghana,Groceries,Cooking Oil,5,32000,Mobile Money
+S10963,2025-04-09,Fatima Ibrahim,Female,Nigeria,Electronics,Laptop,1,450000,Cash
+S10964,2025-03-21,Joy Emmanuel,Female,Ghana,Furniture,Bookshelf,10,85000,Card
+S10965,2025-09-11,Ruth Adams,Male,United States,Groceries,Sugar,7,18000,Card
+S10966,2025-03-17,Ruth Adams,Male,Kenya,Electronics,Tablet,8,180000,Cash
+S10967,2025-01-12,Grace Musa,Male,Nigeria,Clothing,Jacket,7,70000,Card
+S10968,2025-10-08,Grace Musa,Female,United States,Furniture,Desk,9,150000,Mobile Money
+S10969,2025-04-18,Peter Osei,Female,United States,Furniture,Bookshelf,8,85000,Mobile Money
+S10970,2025-01-05,Mary Johnson,Female,United States,Clothing,Jeans,8,28000,Card
+S10971,2025-07-15,Anthony Brown,Male,United States,Electronics,Smartphone,3,280000,Bank Transfer
+S10972,2025-06-10,Daniel Adeyemi,Female,United Kingdom,Electronics,Headphones,5,45000,Cash
+S10973,2025-01-03,Michael James,Female,Kenya,Clothing,T-Shirt,5,12000,Mobile Money
+S10974,2025-11-03,Ruth Adams,Female,Nigeria,Electronics,Smartphone,5,280000,Bank Transfer
+S10975,2025-07-11,Aisha Bello,Male,United Kingdom,Clothing,Jeans,6,28000,Cash
+S10976,2025-12-10,Ruth Adams,Female,United Kingdom,Electronics,Headphones,8,45000,Bank Transfer
+S10977,2025-12-11,Mary Johnson,Female,South Africa,Furniture,Table,8,120000,Card
+S10978,2025-11-13,Sarah Ahmed,Male,South Africa,Groceries,Rice,6,85000,Cash
+S10979,2025-08-25,Ibrahim Yusuf,Male,United Kingdom,Furniture,Bookshelf,5,85000,Cash
+S10980,2025-08-16,Ruth Adams,Male,South Africa,Electronics,Smartphone,9,280000,Cash
+S10981,2025-04-06,Fatima Ibrahim,Male,Ghana,Electronics,Smartphone,10,280000,Mobile Money
+S10982,2025-12-31,Ruth Adams,Male,South Africa,Electronics,Tablet,1,180000,Bank Transfer
+S10983,2025-08-12,Aisha Bello,Female,South Africa,Furniture,Desk,5,150000,Cash
+S10984,2025-08-19,Michael James,Male,Ghana,Electronics,Laptop,5,450000,Cash
+S10985,2025-06-04,Ibrahim Yusuf,Male,United Kingdom,Clothing,Sneakers,6,55000,Card
+S10986,2025-12-09,Sarah Ahmed,Male,Kenya,Electronics,Laptop,3,450000,Mobile Money
+S10987,2025-07-05,Daniel Adeyemi,Male,Ghana,Groceries,Sugar,4,18000,Card
+S10988,2025-07-10,Fatima Ibrahim,Male,Kenya,Furniture,Table,8,120000,Mobile Money
+S10989,2025-10-22,Peter Osei,Male,Nigeria,Electronics,Headphones,5,45000,Cash
+S10990,2025-01-21,Ruth Adams,Female,South Africa,Clothing,Jeans,2,28000,Card
+S10991,2025-06-09,Samuel Obi,Female,United Kingdom,Clothing,Sneakers,8,55000,Cash
+S10992,2025-01-15,Ibrahim Yusuf,Male,Nigeria,Electronics,Headphones,8,45000,Bank Transfer
+S10993,2025-06-29,Esther Eze,Female,Nigeria,Groceries,Cereal,3,9500,Cash
+S10994,2025-08-21,Daniel Adeyemi,Male,United States,Groceries,Rice,9,85000,Bank Transfer
+S10995,2025-11-10,Blessing Okafor,Female,United States,Furniture,Desk,5,150000,Mobile Money
+S10996,2025-09-14,Blessing Okafor,Male,South Africa,Groceries,Cooking Oil,10,32000,Bank Transfer
+S10997,2025-12-20,Emeka Nwosu,Female,Nigeria,Electronics,Smartphone,1,280000,Card
+S10998,2025-04-20,Victor Chukwu,Male,United States,Furniture,Table,2,120000,Cash
+S10999,2025-01-08,Sarah Ahmed,Female,South Africa,Furniture,Office Chair,3,95000,Cash
+S11000,2025-01-21,Esther Eze,Female,Nigeria,Electronics,Headphones,4,45000,Cash
+S11001,2025-10-13,Grace Musa,Female,United States,Groceries,Sugar,4,18000,Card
+S11002,2025-05-16,Fatima Ibrahim,Female,United States,Furniture,Bookshelf,10,85000,Card
+S11003,2025-04-09,Daniel Adeyemi,Female,United Kingdom,Electronics,Smartphone,9,280000,Mobile Money
+S11004,2025-05-25,Grace Musa,Male,United States,Clothing,Jeans,2,28000,Card
+S11005,2025-11-26,Fatima Ibrahim,Male,United States,Groceries,Cooking Oil,1,32000,Bank Transfer
+S11006,2025-06-12,David Okoro,Female,South Africa,Furniture,Office Chair,7,95000,Bank Transfer
+S11007,2025-12-07,John Williams,Male,United States,Electronics,Headphones,4,45000,Cash
+S11008,2025-07-28,Joy Emmanuel,Female,Nigeria,Groceries,Cereal,7,9500,Card
+S11009,2025-03-24,Samuel Obi,Female,Nigeria,Groceries,Rice,4,85000,Card
+S11010,2025-08-05,Grace Musa,Male,Nigeria,Clothing,Sneakers,8,55000,Mobile Money
+S11011,2025-08-21,Samuel Obi,Male,South Africa,Electronics,Tablet,4,180000,Bank Transfer
+S11012,2025-09-14,Samuel Obi,Male,United Kingdom,Electronics,Tablet,10,180000,Mobile Money
+S11013,2025-08-05,Grace Musa,Male,Nigeria,Electronics,Headphones,7,45000,Bank Transfer
+S11014,2025-03-02,Joy Emmanuel,Male,Kenya,Electronics,Smartphone,10,280000,Mobile Money
+S11015,2025-02-13,Victor Chukwu,Male,Kenya,Electronics,Laptop,7,450000,Mobile Money
+S11016,2025-09-28,Emeka Nwosu,Male,South Africa,Electronics,Headphones,7,45000,Mobile Money
+S11017,2025-01-20,Aisha Bello,Female,United Kingdom,Furniture,Office Chair,6,95000,Card
+S11018,2025-04-03,Emeka Nwosu,Male,United Kingdom,Electronics,Laptop,4,450000,Card
+S11019,2025-06-24,Anthony Brown,Female,Ghana,Groceries,Sugar,4,18000,Card
+S11020,2025-09-25,Michael James,Female,United Kingdom,Electronics,Laptop,6,450000,Bank Transfer
+S11021,2025-01-20,Michael James,Female,Kenya,Clothing,Jeans,6,28000,Cash
+S11022,2025-05-20,Hauwa Sule,Male,South Africa,Clothing,T-Shirt,6,12000,Card
+S11023,2025-07-27,Blessing Okafor,Male,United States,Clothing,Jeans,8,28000,Mobile Money
+S11024,2025-10-18,Peter Osei,Female,Ghana,Groceries,Sugar,2,18000,Mobile Money
+S11025,2025-03-17,Aisha Bello,Male,United States,Electronics,Headphones,4,45000,Mobile Money
+S11026,2025-04-04,Blessing Okafor,Female,Ghana,Clothing,Jeans,7,28000,Card
+S11027,2025-06-14,Grace Musa,Female,Nigeria,Electronics,Tablet,9,180000,Cash
+S11028,2025-08-02,Esther Eze,Female,Nigeria,Clothing,Sneakers,1,55000,Card
+S11029,2025-12-14,Samuel Obi,Female,United States,Clothing,Sneakers,3,55000,Bank Transfer
+S11030,2025-05-21,Aisha Bello,Male,Kenya,Clothing,,2,28000,Cash
+S11031,2025-07-09,Blessing Okafor,Male,Kenya,Clothing,Jacket,8,70000,Card
+S11032,2025-03-16,Hauwa Sule,Female,United States,Groceries,Sugar,2,18000,Cash
+S11033,2025-09-16,Esther Eze,Female,United States,Clothing,Jeans,6,28000,Bank Transfer
+S11034,2025-12-03,Emeka Nwosu,Male,United Kingdom,Furniture,Desk,5,150000,Card
+S11035,2025-12-06,Fatima Ibrahim,Male,United Kingdom,Groceries,Cooking Oil,10,32000,Mobile Money
+S11036,2025-10-18,Emeka Nwosu,Male,Ghana,Clothing,T-Shirt,9,12000,Mobile Money
+S11037,2025-07-19,Joy Emmanuel,Male,Kenya,Groceries,Cereal,6,9500,Mobile Money
+S11038,2025-04-17,Ruth Adams,Female,United States,Furniture,Table,10,120000,Cash
+S11039,2025-10-26,Joy Emmanuel,Male,South Africa,Clothing,Jeans,4,28000,Bank Transfer
+S11040,2025-07-13,John Williams,Female,United Kingdom,Furniture,Table,2,120000,Card
+S11041,2025-03-16,Hauwa Sule,Female,Ghana,Electronics,Tablet,10,180000,Cash
+S11042,2025-08-02,Joy Emmanuel,Female,South Africa,Furniture,Bookshelf,7,85000,Bank Transfer
+S11043,2025-04-10,Sarah Ahmed,Male,Ghana,Furniture,Bookshelf,8,85000,Card
+S11044,2025-12-20,Grace Musa,Female,United Kingdom,Groceries,Rice,9,85000,Cash
+S11045,2025-04-20,Daniel Adeyemi,Male,Kenya,Groceries,Cooking Oil,1,32000,Card
+S11046,2025-04-05,Fatima Ibrahim,Female,United States,Groceries,Cooking Oil,5,32000,Card
+S11047,2025-06-06,Michael James,Female,Kenya,Clothing,Sneakers,7,55000,Mobile Money
+S11048,2025-02-05,Mary Johnson,Female,Ghana,Electronics,Headphones,4,45000,Card
+S11049,2025-04-10,Ruth Adams,Female,United States,Furniture,,8,150000,Bank Transfer
+S11050,2025-02-06,Peter Osei,Female,Ghana,Electronics,Tablet,8,180000,Mobile Money
+S11051,2025-10-21,Ruth Adams,Male,Kenya,Electronics,Tablet,1,180000,Mobile Money
+S11052,2025-07-13,Peter Osei,Female,United States,Groceries,Sugar,7,18000,Bank Transfer
+S11053,2025-11-21,Mary Johnson,Male,Kenya,Groceries,Rice,10,85000,Mobile Money
+S11054,2025-12-05,Grace Musa,Female,Ghana,Furniture,Desk,8,150000,Cash
+S11055,2025-07-09,Grace Musa,Male,Nigeria,Groceries,Cereal,9,9500,Card
+S11056,2025-08-31,Ibrahim Yusuf,Male,Nigeria,Electronics,Headphones,7,45000,Bank Transfer
+S11057,2025-05-02,Hauwa Sule,Male,South Africa,Clothing,Jeans,1,28000,Bank Transfer
+S11058,2025-01-05,Peter Osei,,Ghana,Electronics,Smartphone,2,280000,Card
+S11059,2025-08-31,Sarah Ahmed,Male,Ghana,Furniture,Table,4,120000,Bank Transfer
+S11060,2025-05-01,Emeka Nwosu,Female,United Kingdom,Furniture,Table,4,120000,Mobile Money
+S11061,2025-11-30,Mary Johnson,Female,Nigeria,Groceries,Cooking Oil,7,32000,Card
+S11062,2025-05-08,Joy Emmanuel,Male,United States,Groceries,Cereal,2,9500,Bank Transfer
+S11063,2025-09-28,Sarah Ahmed,Male,South Africa,Furniture,Bookshelf,4,85000,Card
+S11064,2025-01-16,Ibrahim Yusuf,Male,South Africa,Furniture,Table,1,120000,Card
+S11065,2025-04-26,Grace Musa,Male,South Africa,Clothing,Sneakers,7,55000,Cash
+S11066,2025-07-31,Hauwa Sule,Female,South Africa,Groceries,Rice,8,85000,Card
+S11067,2025-02-06,David Okoro,Female,Nigeria,Groceries,Cooking Oil,2,32000,Mobile Money
+S11068,2025-06-11,Esther Eze,Female,Nigeria,Furniture,Bookshelf,1,85000,Bank Transfer
+S11069,2025-06-13,Joy Emmanuel,Female,South Africa,Electronics,Smartphone,2,280000,Cash
+S11070,2025-03-30,Anthony Brown,Female,Ghana,Clothing,Jacket,3,70000,Cash
+S11071,2025-01-25,Daniel Adeyemi,Female,Ghana,Electronics,Smartphone,2,280000,Cash
+S11072,2025-10-24,John Williams,Male,Ghana,Groceries,Cooking Oil,1,32000,Card
+S11073,2025-12-15,Daniel Adeyemi,Female,United States,Furniture,Office Chair,5,95000,Mobile Money
+S11074,2025-04-16,Sarah Ahmed,Male,Ghana,Electronics,Laptop,6,450000,Card
+S11075,2025-07-13,Peter Osei,Male,Nigeria,Clothing,T-Shirt,6,12000,Card
+S11076,2025-07-10,Ibrahim Yusuf,Male,Nigeria,Electronics,Smartphone,7,280000,Cash
+S11077,2025-09-22,Emeka Nwosu,Male,United Kingdom,Groceries,Sugar,7,18000,Mobile Money
+S11078,2025-02-01,Daniel Adeyemi,Female,Kenya,Electronics,Smartphone,3,280000,Cash
+S11079,2025-09-29,Sarah Ahmed,Male,South Africa,Furniture,Bookshelf,4,85000,Cash
+S11080,2025-03-31,Grace Musa,Male,South Africa,Groceries,Sugar,5,18000,Mobile Money
+S11081,2025-07-17,Daniel Adeyemi,Female,United States,Electronics,Smartphone,7,280000,Card
+S11082,2025-06-25,Anthony Brown,Male,Kenya,Groceries,Cooking Oil,1,32000,Mobile Money
+S11083,2025-08-20,Ruth Adams,Male,Ghana,Furniture,Desk,1,150000,Cash
+S11084,2025-07-11,Samuel Obi,Male,Nigeria,Groceries,Cooking Oil,3,32000,Bank Transfer
+S11085,2025-05-25,Mary Johnson,Female,Ghana,Furniture,Bookshelf,1,85000,Card
+S11086,2025-01-12,Fatima Ibrahim,Female,United States,Furniture,Bookshelf,1,85000,Mobile Money
+S11087,2025-08-13,Blessing Okafor,Female,Ghana,Groceries,Rice,4,85000,Cash
+S11088,2025-09-22,Hauwa Sule,Female,Ghana,Clothing,Jeans,8,28000,Cash
+S11089,2025-10-14,Esther Eze,Male,United States,Electronics,Headphones,3,45000,Card
+S11090,2025-05-10,Ruth Adams,Male,Ghana,Clothing,T-Shirt,9,12000,Cash
+S11091,2025-05-15,Ibrahim Yusuf,Male,Ghana,Furniture,Table,7,120000,Card
+S11092,2025-06-03,Ruth Adams,Female,United States,Clothing,Sneakers,4,55000,Bank Transfer
+S11093,2025-12-08,Sarah Ahmed,Female,Ghana,Furniture,Office Chair,8,95000,Mobile Money
+S11094,2025-11-16,Anthony Brown,Male,South Africa,Furniture,Table,7,120000,Cash
+S11095,2025-09-13,Fatima Ibrahim,Female,South Africa,Groceries,Cooking Oil,5,32000,Mobile Money
+S11096,2025-08-08,Grace Musa,Female,Ghana,Groceries,Cereal,8,9500,Card
+S11097,2025-03-24,Aisha Bello,Female,South Africa,Clothing,Jeans,7,28000,Mobile Money
+S11098,2025-02-15,Anthony Brown,Female,United States,Furniture,Bookshelf,10,85000,Cash
+S11099,2025-03-07,Sarah Ahmed,Male,Ghana,Furniture,Office Chair,7,95000,Bank Transfer
+S11100,2025-07-07,David Okoro,Female,South Africa,Groceries,Cereal,4,9500,Card
+S11101,2025-03-29,Aisha Bello,Male,Kenya,Furniture,Office Chair,10,95000,Mobile Money
+S11102,2025-01-25,Emeka Nwosu,Male,Nigeria,Clothing,Sneakers,2,55000,Cash
+S11103,2025-04-10,Hauwa Sule,Male,South Africa,Furniture,Table,3,120000,Mobile Money
+S11104,2025-12-12,Victor Chukwu,Female,United Kingdom,Groceries,Sugar,5,18000,Mobile Money
+S11105,2025-07-21,Mary Johnson,Female,United States,Electronics,Laptop,4,450000,Mobile Money
+S11106,2025-03-15,Anthony Brown,Male,Nigeria,Groceries,Rice,2,85000,Mobile Money
+S11107,2025-03-24,Ibrahim Yusuf,Male,Kenya,Furniture,Bookshelf,3,85000,Card
+S11108,2025-11-19,Hauwa Sule,Male,South Africa,Clothing,Jacket,10,70000,Card
+S11109,2025-08-26,Ibrahim Yusuf,Male,Kenya,Clothing,Jeans,7,28000,Mobile Money
+S11110,2025-05-28,Michael James,Male,South Africa,Electronics,Smartphone,2,280000,Bank Transfer
+S11111,2025-06-21,Ruth Adams,Male,South Africa,Electronics,Tablet,8,180000,Cash
+S11112,2025-06-22,Aisha Bello,Male,Nigeria,Electronics,Laptop,4,450000,Cash
+S11113,2025-01-20,Anthony Brown,Female,United Kingdom,Furniture,Bookshelf,7,85000,Bank Transfer
+S11114,2025-01-26,Samuel Obi,Female,United States,Groceries,Sugar,7,18000,Mobile Money
+S11115,2025-09-01,Daniel Adeyemi,Male,South Africa,Electronics,Tablet,7,180000,Card
+S11116,2025-06-18,Fatima Ibrahim,Male,Kenya,Electronics,Laptop,8,450000,Mobile Money
+S11117,2025-05-15,Blessing Okafor,Male,United States,Furniture,Desk,6,150000,Cash
+S11118,2025-11-24,Emeka Nwosu,Female,South Africa,Groceries,Cereal,10,9500,Cash
+S11119,2025-10-12,Daniel Adeyemi,Female,Kenya,Groceries,Cereal,10,9500,Card
+S11120,2025-08-25,Anthony Brown,Male,Kenya,Clothing,T-Shirt,9,12000,Mobile Money
+S11121,2025-01-05,Anthony Brown,Male,Ghana,Clothing,Jacket,4,70000,Card
+S11122,2025-10-12,Aisha Bello,Male,Kenya,Electronics,Laptop,7,450000,Bank Transfer
+S11123,2025-08-10,Daniel Adeyemi,Male,United Kingdom,Clothing,Sneakers,8,55000,Cash
+S11124,2025-10-04,Blessing Okafor,Female,United States,Groceries,Cooking Oil,7,32000,Mobile Money
+S11125,2025-04-26,Daniel Adeyemi,Female,Nigeria,Clothing,Jeans,2,28000,Cash
+S11126,2025-06-30,Ruth Adams,Female,Ghana,Groceries,Cooking Oil,6,32000,Mobile Money
+S11127,2025-02-13,Ruth Adams,Male,South Africa,Electronics,Tablet,7,180000,Bank Transfer
+S11128,2025-02-07,Emeka Nwosu,Male,Nigeria,Groceries,Cooking Oil,7,32000,Cash
+S11129,2025-01-26,Michael James,Male,South Africa,Furniture,Bookshelf,8,85000,Card
+S11130,2025-11-08,Emeka Nwosu,Female,Kenya,Groceries,Cooking Oil,9,32000,Cash
+S11131,2025-06-26,Anthony Brown,Female,United States,Groceries,Cereal,7,9500,Cash
+S11132,2025-09-15,Samuel Obi,Male,Ghana,Groceries,Cooking Oil,8,32000,Mobile Money
+S11133,2025-03-04,Victor Chukwu,Female,Kenya,Groceries,Cooking Oil,7,32000,Mobile Money
+S11134,2025-05-26,Grace Musa,Female,Kenya,Groceries,Cereal,4,9500,Mobile Money
+S11135,2025-09-29,Ruth Adams,Male,United States,Electronics,Smartphone,5,280000,Mobile Money
+S11136,2025-03-05,Anthony Brown,Female,Ghana,Clothing,Jeans,4,28000,Card
+S11137,2025-11-04,Ruth Adams,Male,United States,Clothing,T-Shirt,3,12000,Mobile Money
+S11138,2025-09-05,Daniel Adeyemi,Female,South Africa,Furniture,Desk,3,150000,Cash
+S11139,2025-07-04,Mary Johnson,Female,Ghana,Electronics,Tablet,1,180000,Cash
+S11140,2025-07-04,Michael James,Male,United States,Clothing,Jacket,7,70000,Cash
+S11141,2025-05-06,Joy Emmanuel,Female,Nigeria,Furniture,Table,2,120000,Cash
+S11142,2025-08-06,Hauwa Sule,Male,Nigeria,Electronics,Laptop,10,450000,Mobile Money
+S11143,2025-09-10,Sarah Ahmed,Female,United States,Groceries,Rice,7,85000,Bank Transfer
+S11144,2025-04-29,Grace Musa,Male,South Africa,Clothing,T-Shirt,1,12000,Mobile Money
+S11145,2025-06-28,Ruth Adams,Male,Ghana,Furniture,Office Chair,2,95000,Card
+S11146,2025-05-13,Blessing Okafor,Male,Nigeria,Clothing,T-Shirt,3,12000,Card
+S11147,2025-11-15,David Okoro,Male,Nigeria,Clothing,T-Shirt,9,12000,Bank Transfer
+S11148,2025-04-29,Aisha Bello,Male,Kenya,Groceries,Cooking Oil,1,32000,Bank Transfer
+S11149,2025-07-31,Blessing Okafor,Female,United Kingdom,Furniture,Desk,9,150000,Card
+S11150,2025-10-25,David Okoro,Male,Ghana,Electronics,Laptop,5,450000,Card
+S11151,2025-08-08,Fatima Ibrahim,Male,United States,Clothing,Jeans,10,28000,Mobile Money
+S11152,2025-08-08,Sarah Ahmed,Male,South Africa,Electronics,Tablet,8,180000,Cash
+S11153,2025-11-13,Victor Chukwu,Male,Nigeria,Groceries,Cereal,5,9500,Card
+S11154,2025-11-27,Mary Johnson,Female,South Africa,Groceries,Cooking Oil,7,32000,Cash
+S11155,2025-05-06,Daniel Adeyemi,Male,United States,Clothing,T-Shirt,9,12000,Mobile Money
+S11156,2025-04-03,John Williams,Female,Kenya,Electronics,Tablet,3,180000,Card
+S11157,2025-09-27,Sarah Ahmed,Male,South Africa,Groceries,Rice,2,85000,Cash
+S11158,2025-06-04,Daniel Adeyemi,Female,United States,Clothing,Sneakers,10,55000,Bank Transfer
+S11159,2025-12-24,Ibrahim Yusuf,Female,South Africa,Groceries,Rice,3,85000,Bank Transfer
+S11160,2025-12-24,Fatima Ibrahim,Male,United States,Furniture,Table,9,120000,Card
+S11161,2025-04-01,Ruth Adams,Female,Nigeria,Clothing,Jeans,6,28000,Card
+S11162,2025-10-08,Joy Emmanuel,Female,South Africa,Furniture,Table,9,120000,Bank Transfer
+S11163,2025-06-18,Samuel Obi,Female,United States,Groceries,Cereal,2,9500,Bank Transfer
+S11164,2025-11-21,Grace Musa,Male,United States,Furniture,Bookshelf,4,85000,Cash
+S11165,2025-11-17,Michael James,Female,Nigeria,Clothing,T-Shirt,7,12000,Card
+S11166,2025-06-29,Victor Chukwu,Male,South Africa,Furniture,Table,1,120000,Card
+S11167,2025-01-01,Samuel Obi,Male,United Kingdom,Electronics,Headphones,8,45000,Card
+S11168,2025-12-10,John Williams,Male,United Kingdom,Clothing,Jeans,6,28000,Cash
+S11169,2025-07-24,Ibrahim Yusuf,Female,Nigeria,Furniture,Table,6,120000,Card
+S11170,2025-03-28,Anthony Brown,Female,Kenya,Electronics,Tablet,4,180000,Cash
+S11171,2025-07-29,Hauwa Sule,Male,South Africa,Furniture,Desk,10,150000,Mobile Money
+S11172,2025-02-17,Emeka Nwosu,Female,Kenya,Electronics,Tablet,5,180000,Bank Transfer
+S11173,2025-04-22,Ibrahim Yusuf,Female,Kenya,Electronics,Laptop,1,450000,Cash
+S11174,2025-10-20,Grace Musa,Male,South Africa,Furniture,Table,2,120000,Mobile Money
+S11175,2025-01-23,Samuel Obi,Female,South Africa,Electronics,Smartphone,6,280000,Bank Transfer
+S11176,2025-12-11,Victor Chukwu,Female,Nigeria,Groceries,Cereal,8,9500,Mobile Money
+S11177,2025-08-26,Peter Osei,Male,Kenya,Clothing,Jeans,4,28000,Cash
+S11178,2025-01-17,Mary Johnson,Female,South Africa,Clothing,Sneakers,6,55000,Cash
+S11179,2025-10-16,Fatima Ibrahim,Male,South Africa,Clothing,Jeans,8,28000,Mobile Money
+S11180,2025-03-29,Hauwa Sule,Female,Ghana,Clothing,Sneakers,2,55000,Cash
+S11181,2025-07-22,John Williams,Male,United States,Electronics,Smartphone,4,280000,Cash
+S11182,2025-10-22,Peter Osei,Female,Kenya,Groceries,Cereal,5,9500,Mobile Money
+S11183,2025-11-29,Emeka Nwosu,Male,United States,Electronics,Headphones,9,45000,Card
+S11184,2025-08-12,Fatima Ibrahim,Male,United States,Clothing,Sneakers,7,55000,Card
+S11185,2025-04-23,Emeka Nwosu,Male,Ghana,Furniture,Office Chair,10,95000,Card
+S11186,2025-11-24,Sarah Ahmed,Male,Kenya,Clothing,T-Shirt,4,12000,Card
+S11187,2025-03-13,Grace Musa,Male,South Africa,Furniture,Office Chair,7,95000,Bank Transfer
+S11188,2025-05-10,Peter Osei,Female,Nigeria,Clothing,Jeans,9,28000,Mobile Money
+S11189,2025-09-19,Fatima Ibrahim,Female,Kenya,Electronics,Tablet,6,180000,Mobile Money
+S11190,2025-06-25,Ibrahim Yusuf,Male,Nigeria,Clothing,Sneakers,1,55000,Bank Transfer
+S11191,2025-02-27,Fatima Ibrahim,Male,South Africa,Clothing,Sneakers,3,55000,Bank Transfer
+S11192,2025-10-17,Michael James,Male,Nigeria,Furniture,Bookshelf,1,85000,Card
+S11193,2025-06-16,Ruth Adams,Female,Ghana,Groceries,Sugar,5,18000,Card
+S11194,2025-10-08,Mary Johnson,Male,Nigeria,Furniture,Office Chair,10,95000,Card
+S11195,2025-10-12,Grace Musa,Female,Kenya,Clothing,Jacket,8,70000,Card
+S11196,2025-12-23,Esther Eze,Female,United Kingdom,Clothing,T-Shirt,5,12000,Bank Transfer
+S11197,2025-12-28,Peter Osei,Male,South Africa,Groceries,Cereal,7,9500,Cash
+S11198,2025-06-06,Michael James,Male,United Kingdom,Clothing,Sneakers,1,55000,Card
+S11199,2025-06-19,Hauwa Sule,Male,Ghana,Furniture,Table,8,120000,Mobile Money
+S11200,2025-05-14,Esther Eze,Male,Nigeria,Furniture,Table,3,120000,Card
+S11201,2025-09-06,Hauwa Sule,Female,Kenya,Electronics,Headphones,4,45000,Bank Transfer
+S11202,2025-08-07,Samuel Obi,,United Kingdom,Groceries,Rice,4,85000,Bank Transfer
+S11203,2025-01-29,Mary Johnson,Female,Nigeria,Electronics,Smartphone,4,280000,Card
+S11204,2025-05-25,Emeka Nwosu,Female,Kenya,Electronics,Laptop,2,450000,Bank Transfer
+S11205,2025-11-23,Blessing Okafor,Male,United States,Clothing,Jacket,1,70000,Bank Transfer
+S11206,2025-08-03,Fatima Ibrahim,Male,United Kingdom,Clothing,Sneakers,10,55000,Cash
+S11207,2025-04-24,Joy Emmanuel,Male,Kenya,Furniture,Bookshelf,5,85000,Card
+S11208,2025-01-04,Samuel Obi,Female,Kenya,Furniture,Desk,3,150000,Mobile Money
+S11209,2025-09-07,Joy Emmanuel,Male,Ghana,Electronics,Headphones,4,45000,Mobile Money
+S11210,2025-04-26,Michael James,Male,Ghana,Clothing,Sneakers,7,55000,Card
+S11211,2025-09-21,Peter Osei,Male,South Africa,Electronics,Smartphone,7,280000,Cash
+S11212,2025-08-05,Sarah Ahmed,Female,Nigeria,Clothing,T-Shirt,2,12000,Cash
+S11213,2025-08-09,Grace Musa,Female,Ghana,Electronics,Smartphone,10,280000,Cash
+S11214,2025-01-23,Grace Musa,Male,Ghana,Electronics,Laptop,8,450000,Mobile Money
+S11215,2025-06-03,Anthony Brown,Male,Ghana,Clothing,Sneakers,1,55000,Bank Transfer
+S11216,2025-06-02,Daniel Adeyemi,Female,Nigeria,Electronics,Laptop,9,450000,Mobile Money
+S11217,2025-02-24,Aisha Bello,Male,South Africa,Clothing,T-Shirt,7,12000,Card
+S11218,2025-12-15,Sarah Ahmed,Male,South Africa,Groceries,Sugar,3,18000,Cash
+S11219,2025-06-04,John Williams,Male,United Kingdom,Clothing,T-Shirt,6,12000,Cash
+S11220,2025-04-15,Emeka Nwosu,Male,Ghana,Groceries,Rice,7,85000,Bank Transfer
+S11221,2025-06-16,Michael James,Female,Kenya,Clothing,Jacket,2,70000,Bank Transfer
+S11222,2025-07-27,Grace Musa,Male,Ghana,Furniture,Bookshelf,3,85000,Bank Transfer
+S11223,2025-09-21,Anthony Brown,Male,Nigeria,Clothing,Jacket,10,70000,Mobile Money
+S11224,2025-12-01,Blessing Okafor,Male,Ghana,Groceries,Cooking Oil,7,32000,Bank Transfer
+S11225,2025-01-05,Anthony Brown,Female,United Kingdom,Groceries,Cereal,6,9500,Card
+S11226,2025-11-23,Victor Chukwu,Female,United Kingdom,Clothing,Jacket,9,70000,Mobile Money
+S11227,2025-01-02,Ruth Adams,Female,United Kingdom,Clothing,Jacket,10,70000,Card
+S11228,2025-10-26,Aisha Bello,Male,Nigeria,Electronics,Smartphone,6,280000,Mobile Money
+S11229,2025-04-04,John Williams,Female,Ghana,Clothing,T-Shirt,5,12000,Mobile Money
+S11230,2025-04-08,Esther Eze,Male,Nigeria,Clothing,Jacket,3,70000,Cash
+S11231,2025-06-03,Peter Osei,Female,Nigeria,Clothing,Jacket,2,70000,Cash
+S11232,2025-04-28,Mary Johnson,Female,Ghana,Furniture,Desk,2,150000,Card
+S11233,2025-06-09,Mary Johnson,Male,South Africa,Electronics,Laptop,3,450000,Bank Transfer
+S11234,2025-09-28,Joy Emmanuel,Male,Kenya,Furniture,Table,2,120000,Card
+S11235,2025-03-11,Hauwa Sule,Male,Nigeria,Electronics,Laptop,7,450000,Mobile Money
+S11236,2025-05-08,Michael James,Male,South Africa,Furniture,Bookshelf,3,85000,Bank Transfer
+S11237,2025-03-22,Esther Eze,Female,United Kingdom,Electronics,Headphones,1,45000,Card
+S11238,2025-02-21,Joy Emmanuel,Female,Kenya,Furniture,Desk,7,150000,Mobile Money
+S11239,2025-03-26,Peter Osei,Male,Kenya,Clothing,T-Shirt,2,12000,Cash
+S11240,2025-01-15,Aisha Bello,Male,Kenya,Electronics,Tablet,3,180000,Cash
+S11241,2025-06-23,Michael James,Male,United Kingdom,Electronics,Smartphone,4,280000,Cash
+S11242,2025-03-14,Ruth Adams,Male,United Kingdom,Clothing,Sneakers,8,55000,Cash
+S11243,2025-01-01,Michael James,Male,Kenya,Electronics,Tablet,5,180000,Mobile Money
+S11244,2025-06-11,John Williams,Male,United States,Clothing,Sneakers,2,55000,Bank Transfer
+S11245,2025-09-24,Mary Johnson,Male,United Kingdom,Furniture,Office Chair,7,95000,Mobile Money
+S11246,2025-02-03,Mary Johnson,Female,Nigeria,Electronics,Tablet,2,180000,Card
+S11247,2025-12-19,Hauwa Sule,Female,South Africa,Clothing,Jeans,3,28000,Bank Transfer
+S11248,2025-05-28,David Okoro,Female,Ghana,Groceries,Sugar,4,18000,Cash
+S11249,2025-03-27,Aisha Bello,Male,Kenya,Clothing,Jacket,9,70000,Cash
+S11250,2025-05-26,Blessing Okafor,Male,Kenya,Furniture,Office Chair,3,95000,Cash
+S11251,2025-09-07,Grace Musa,Male,Ghana,Groceries,Sugar,8,18000,Bank Transfer
+S11252,2025-10-07,Mary Johnson,Male,United Kingdom,Furniture,Bookshelf,8,85000,Cash
+S11253,2025-05-07,Peter Osei,Male,South Africa,Groceries,Sugar,6,18000,Bank Transfer
+S11254,2025-08-04,Hauwa Sule,Female,Kenya,Groceries,Rice,1,85000,Cash
+S11255,2025-03-10,Daniel Adeyemi,Female,South Africa,Clothing,T-Shirt,3,12000,Mobile Money
+S11256,2025-03-19,Joy Emmanuel,Male,Kenya,Electronics,Smartphone,8,280000,Mobile Money
+S11257,2025-11-20,Ibrahim Yusuf,Male,South Africa,Furniture,Office Chair,7,95000,Card
+S11258,2025-11-18,Blessing Okafor,Female,United Kingdom,Furniture,Bookshelf,8,85000,Card
+S11259,2025-11-09,Joy Emmanuel,Male,United Kingdom,Furniture,Office Chair,3,95000,Mobile Money
+S11260,2025-01-20,Ruth Adams,Male,United Kingdom,Clothing,Jeans,7,28000,Cash
+S11261,2025-02-09,Esther Eze,Male,Ghana,Groceries,Cereal,1,9500,Mobile Money
+S11262,2025-07-15,Grace Musa,Male,Nigeria,Groceries,Sugar,5,18000,Mobile Money
+S11263,2025-01-29,Peter Osei,Male,United States,Electronics,Tablet,5,180000,Card
+S11264,2025-12-08,Blessing Okafor,Female,Ghana,Electronics,Laptop,4,450000,Bank Transfer
+S11265,2025-04-19,Victor Chukwu,Male,United States,Furniture,Table,7,120000,Bank Transfer
+S11266,2025-02-21,Grace Musa,Male,Kenya,Furniture,Office Chair,6,95000,Cash
+S11267,2025-07-17,Anthony Brown,Female,Nigeria,Clothing,Jacket,7,70000,Bank Transfer
+S11268,2025-12-01,Joy Emmanuel,Male,Nigeria,Electronics,Headphones,4,45000,Card
+S11269,2025-05-25,Esther Eze,Female,Ghana,Furniture,Desk,4,150000,Cash
+S11270,2025-06-19,Michael James,Female,United Kingdom,Groceries,Sugar,2,18000,Mobile Money
+S11271,2025-03-14,John Williams,Female,United Kingdom,Furniture,Table,7,120000,Bank Transfer
+S11272,2025-06-15,Peter Osei,Female,Ghana,Electronics,Smartphone,9,280000,Card
+S11273,2025-06-08,Peter Osei,Female,United States,Furniture,Table,10,120000,Cash
+S11274,2025-10-16,Aisha Bello,Female,Nigeria,Electronics,Laptop,8,450000,Cash
+S11275,2025-05-11,Peter Osei,Male,Ghana,Furniture,Office Chair,8,95000,Mobile Money
+S11276,2025-11-23,Daniel Adeyemi,Female,South Africa,Electronics,Smartphone,7,280000,Mobile Money
+S11277,2025-09-04,Hauwa Sule,Female,Kenya,Electronics,Tablet,5,180000,Bank Transfer
+S11278,2025-12-12,Peter Osei,Male,Nigeria,Furniture,Desk,1,150000,Card
+S11279,2025-05-05,Ibrahim Yusuf,Female,Ghana,Groceries,Sugar,9,18000,Mobile Money
+S11280,2025-09-14,Ruth Adams,Female,Ghana,Clothing,Jacket,7,70000,Card
+S11281,2025-05-29,Ibrahim Yusuf,Female,Ghana,Furniture,Bookshelf,2,85000,Card
+S11282,2025-04-02,Victor Chukwu,Male,Kenya,Electronics,Headphones,4,45000,Cash
+S11283,2025-11-07,Aisha Bello,Male,Nigeria,Electronics,Laptop,10,450000,Cash
+S11284,2025-09-28,Joy Emmanuel,Female,Ghana,Furniture,Office Chair,4,95000,Card
+S11285,2025-10-30,Sarah Ahmed,Female,United States,Groceries,Cooking Oil,1,32000,Bank Transfer
+S11286,2025-10-12,Ruth Adams,Male,Nigeria,Electronics,Smartphone,8,280000,Cash
+S11287,2025-03-10,Fatima Ibrahim,Male,Nigeria,Electronics,Smartphone,2,280000,Mobile Money
+S11288,2025-10-26,Daniel Adeyemi,Female,Nigeria,Groceries,Cooking Oil,7,32000,Cash
+S11289,2025-11-13,Peter Osei,Female,Kenya,Furniture,Office Chair,8,95000,Card
+S11290,2025-09-09,Ibrahim Yusuf,Male,Nigeria,Clothing,Sneakers,6,55000,Bank Transfer
+S11291,2025-12-01,Hauwa Sule,Female,Nigeria,Furniture,Office Chair,4,95000,Cash
+S11292,2025-08-08,John Williams,Male,Ghana,Electronics,Smartphone,1,280000,Bank Transfer
+S11293,2025-06-29,Mary Johnson,Female,Kenya,Clothing,Jeans,8,28000,Card
+S11294,2025-06-21,Joy Emmanuel,Female,South Africa,Electronics,Tablet,9,180000,Mobile Money
+S11295,2025-09-24,Esther Eze,Female,South Africa,Clothing,Sneakers,2,55000,Bank Transfer
+S11296,2025-05-20,Peter Osei,Female,South Africa,Clothing,Jeans,10,28000,Bank Transfer
+S11297,2025-01-03,Peter Osei,Male,United Kingdom,Groceries,Rice,6,85000,Bank Transfer
+S11298,2025-12-04,David Okoro,Female,United Kingdom,Electronics,Headphones,7,45000,Bank Transfer
+S11299,2025-10-05,Daniel Adeyemi,Male,Kenya,Groceries,Cereal,7,9500,Card
+S11300,2025-12-17,Esther Eze,Female,Kenya,Groceries,Cooking Oil,3,32000,Bank Transfer
+S11301,2025-09-20,Aisha Bello,Female,Ghana,Electronics,Laptop,8,450000,Bank Transfer
+S11302,2025-10-04,Michael James,Male,United Kingdom,Clothing,T-Shirt,4,12000,Cash
+S11303,2025-07-01,Peter Osei,Female,Kenya,Groceries,Rice,4,85000,Card
+S11304,2025-11-17,David Okoro,Female,South Africa,Electronics,Headphones,2,45000,Cash
+S11305,2025-06-26,Ruth Adams,Female,Ghana,Furniture,Desk,10,150000,Cash
+S11306,2025-10-14,Joy Emmanuel,Female,Ghana,Groceries,Rice,7,85000,Cash
+S11307,2025-04-08,Grace Musa,Female,Nigeria,Electronics,Tablet,7,180000,Bank Transfer
+S11308,2025-10-21,Sarah Ahmed,Male,United Kingdom,Groceries,Sugar,6,18000,Mobile Money
+S11309,2025-02-25,Joy Emmanuel,Female,United States,Electronics,Headphones,2,45000,Bank Transfer
+S11310,2025-09-25,David Okoro,Male,Ghana,Electronics,Laptop,2,450000,Bank Transfer
+S11311,2025-09-16,Grace Musa,Male,United States,Furniture,Desk,6,150000,Cash
+S11312,2025-10-15,Daniel Adeyemi,Male,Kenya,Electronics,Tablet,2,180000,Bank Transfer
+S11313,2025-07-21,Ibrahim Yusuf,Male,United Kingdom,Groceries,Cereal,8,9500,Cash
+S11314,2025-12-20,Ruth Adams,Female,United States,Clothing,Sneakers,8,55000,Cash
+S11315,2025-10-02,Fatima Ibrahim,Female,United States,Clothing,Jacket,8,70000,Card
+S11316,2025-11-16,Grace Musa,Female,United Kingdom,Electronics,Tablet,4,180000,Card
+S11317,2025-08-23,David Okoro,Male,Nigeria,Electronics,Laptop,4,450000,Mobile Money
+S11318,2025-03-19,Daniel Adeyemi,Female,Ghana,Furniture,Desk,10,150000,Bank Transfer
+S11319,2025-01-02,Hauwa Sule,Male,Ghana,Groceries,Cereal,4,9500,Bank Transfer
+S11320,2025-02-17,Esther Eze,Female,Ghana,Furniture,Table,2,120000,Bank Transfer
+S11321,2025-01-03,Ruth Adams,Male,Ghana,Furniture,Desk,8,150000,Cash
+S11322,2025-08-19,Joy Emmanuel,Male,Kenya,Electronics,Smartphone,1,280000,Mobile Money
+S11323,2025-05-08,Daniel Adeyemi,Male,Kenya,Furniture,Bookshelf,7,85000,Card
+S11324,2025-02-28,Peter Osei,Female,Nigeria,Clothing,Jacket,8,70000,Bank Transfer
+S11325,2025-10-06,Sarah Ahmed,Female,Ghana,Groceries,Rice,5,85000,Card
+S11326,2025-07-01,Hauwa Sule,Female,United Kingdom,Furniture,Desk,7,150000,Cash
+S11327,2025-04-23,Samuel Obi,Male,Nigeria,Electronics,Smartphone,1,280000,Bank Transfer
+S11328,2025-09-30,Daniel Adeyemi,Female,Ghana,Clothing,T-Shirt,10,12000,Mobile Money
+S11329,2025-09-24,Samuel Obi,Female,South Africa,Furniture,Table,4,120000,Card
+S11330,2025-07-28,Emeka Nwosu,Female,United States,Clothing,Sneakers,1,55000,Cash
+S11331,2025-05-31,Samuel Obi,Male,Kenya,Clothing,Jacket,2,70000,Card
+S11332,2025-09-24,Mary Johnson,Male,United States,Clothing,Sneakers,8,55000,Mobile Money
+S11333,2025-06-13,Fatima Ibrahim,Male,Ghana,Groceries,Rice,1,85000,Bank Transfer
+S11334,2025-04-21,Samuel Obi,Female,Nigeria,Furniture,Office Chair,1,95000,Cash
+S11335,2025-06-12,Hauwa Sule,Male,Ghana,Groceries,Cooking Oil,2,32000,Cash
+S11336,2025-06-25,Anthony Brown,Female,United Kingdom,Groceries,Sugar,5,18000,Mobile Money
+S11337,2025-05-20,Aisha Bello,Female,Kenya,Groceries,Sugar,6,18000,Mobile Money
+S11338,2025-03-19,Aisha Bello,Male,South Africa,Electronics,Tablet,4,180000,Card
+S11339,2025-03-19,Samuel Obi,Female,Kenya,Groceries,Cereal,4,9500,Cash
+S11340,2025-08-30,Fatima Ibrahim,Female,United Kingdom,Clothing,Jacket,3,70000,Bank Transfer
+S11341,2025-11-01,Ruth Adams,Female,Kenya,Groceries,Sugar,5,18000,Card
+S11342,2025-11-02,Peter Osei,Female,United Kingdom,Electronics,Tablet,6,180000,Bank Transfer
+S11343,2025-07-14,Mary Johnson,Female,United States,Electronics,Laptop,3,450000,Bank Transfer
+S11344,2025-11-04,Michael James,Male,Kenya,Clothing,Sneakers,1,55000,Mobile Money
+S11345,2025-02-28,Ruth Adams,Male,Nigeria,Electronics,Smartphone,8,280000,Bank Transfer
+S11346,2025-09-26,Aisha Bello,Male,Kenya,Electronics,Headphones,3,45000,Bank Transfer
+S11347,2025-08-30,Fatima Ibrahim,Male,United States,Groceries,Cooking Oil,4,32000,Mobile Money
+S11348,2025-11-07,David Okoro,Female,Kenya,Electronics,Tablet,4,180000,Mobile Money
+S11349,2025-08-01,Fatima Ibrahim,Female,United Kingdom,Furniture,Table,5,120000,Card
+S11350,2025-05-08,Esther Eze,Female,Ghana,Furniture,Bookshelf,7,85000,Card
+S11351,2025-05-10,Michael James,Female,United Kingdom,Groceries,Sugar,3,18000,Mobile Money
+S11352,2025-07-24,Hauwa Sule,Female,United States,Furniture,Office Chair,6,95000,Bank Transfer
+S11353,2025-07-24,Joy Emmanuel,Female,South Africa,Furniture,Bookshelf,8,85000,Cash
+S11354,2025-04-09,Mary Johnson,Female,Ghana,Electronics,Headphones,10,45000,Bank Transfer
+S11355,2025-03-12,Sarah Ahmed,Male,South Africa,Clothing,Sneakers,1,55000,Mobile Money
+S11356,2025-07-25,David Okoro,Female,United States,Furniture,Office Chair,2,95000,Bank Transfer
+S11357,2025-02-24,Blessing Okafor,Male,Nigeria,Electronics,Tablet,10,180000,Cash
+S11358,2025-09-20,Mary Johnson,Male,United States,Clothing,Jeans,3,28000,Bank Transfer
+S11359,2025-01-06,Emeka Nwosu,Male,Nigeria,Groceries,Rice,2,85000,Cash
+S11360,2025-04-12,Daniel Adeyemi,Male,Ghana,Clothing,T-Shirt,2,12000,Mobile Money
+S11361,2025-06-01,David Okoro,Male,Kenya,,Headphones,7,45000,Mobile Money
+S11362,2025-12-30,Emeka Nwosu,Female,United States,Clothing,Jeans,10,28000,Cash
+S11363,2025-04-23,Ibrahim Yusuf,Male,United States,Furniture,Desk,4,150000,Card
+S11364,2025-06-06,Michael James,Female,United States,Clothing,Jacket,2,70000,Mobile Money
+S11365,2025-03-29,Sarah Ahmed,Male,South Africa,Groceries,Sugar,7,18000,Mobile Money
+S11366,2025-01-13,Joy Emmanuel,Male,United Kingdom,Clothing,T-Shirt,7,12000,Cash
+S11367,2025-09-23,David Okoro,Female,Ghana,Groceries,Rice,8,85000,Mobile Money
+S11368,2025-11-03,John Williams,Male,Kenya,Groceries,Rice,,85000,Mobile Money
+S11369,2025-07-12,John Williams,Female,South Africa,Electronics,Smartphone,3,280000,Bank Transfer
+S11370,2025-09-06,Anthony Brown,Female,South Africa,Groceries,Cereal,10,9500,Card
+S11371,2025-01-07,Ruth Adams,Female,United Kingdom,Groceries,Cooking Oil,10,32000,Mobile Money
+S11372,2025-07-22,Ibrahim Yusuf,Male,Nigeria,Electronics,Laptop,,450000,Mobile Money
+S11373,2025-07-27,Samuel Obi,Male,Ghana,Furniture,Bookshelf,7,85000,Mobile Money
+S11374,2025-12-23,Daniel Adeyemi,Male,United States,Electronics,Laptop,2,450000,Mobile Money
+S11375,2025-07-15,Blessing Okafor,Male,United States,Groceries,Rice,8,85000,Mobile Money
+S11376,2025-04-03,Fatima Ibrahim,Female,South Africa,Clothing,Jeans,5,28000,Card
+S11377,2025-01-30,Hauwa Sule,Male,Nigeria,Clothing,Jeans,10,28000,Cash
+S11378,2025-03-13,Mary Johnson,Male,Kenya,Electronics,Smartphone,7,280000,Cash
+S11379,2025-03-03,Anthony Brown,Male,Ghana,Groceries,Cooking Oil,10,32000,Mobile Money
+S11380,2025-02-05,Grace Musa,Female,South Africa,Groceries,Sugar,7,18000,Cash
+S11381,2025-09-29,Michael James,Male,Nigeria,Electronics,Smartphone,8,280000,Card
+S11382,2025-03-31,Samuel Obi,Female,Kenya,Electronics,Tablet,7,180000,Bank Transfer
+S11383,2025-06-25,Grace Musa,Male,United Kingdom,Electronics,Smartphone,10,280000,Bank Transfer
+S11384,2025-07-01,Ruth Adams,Female,Kenya,Furniture,Office Chair,1,95000,Cash
+S11385,2025-03-01,Esther Eze,Female,Nigeria,Groceries,Cereal,3,9500,Card
+S11386,2025-12-10,Anthony Brown,Male,United Kingdom,Groceries,Rice,10,85000,Cash
+S11387,2025-11-09,Emeka Nwosu,Male,United Kingdom,Groceries,Rice,8,85000,Card
+S11388,2025-10-12,David Okoro,Female,United Kingdom,Groceries,Rice,4,85000,Bank Transfer
+S11389,2025-07-24,Samuel Obi,Male,Nigeria,Furniture,Table,1,120000,Card
+S11390,2025-03-12,David Okoro,Female,South Africa,Furniture,Office Chair,3,95000,Mobile Money
+S11391,2025-01-24,Joy Emmanuel,Male,United Kingdom,Furniture,Desk,6,150000,Bank Transfer
+S11392,2025-12-11,David Okoro,Male,Ghana,Clothing,Sneakers,2,55000,Cash
+S11393,2025-06-19,Aisha Bello,Male,Nigeria,Clothing,Jacket,2,70000,Cash
+S11394,2025-01-08,Michael James,Male,Kenya,Clothing,Jacket,6,70000,Card
+S11395,2025-07-07,Anthony Brown,Male,United States,Groceries,Cooking Oil,2,32000,Cash
+S11396,2025-09-22,John Williams,Male,South Africa,Groceries,Cooking Oil,5,32000,Bank Transfer
+S11397,2025-01-03,Fatima Ibrahim,Female,United States,Groceries,Cooking Oil,9,32000,Cash
+S11398,2025-11-22,Emeka Nwosu,Female,Kenya,Electronics,Tablet,2,180000,Card
+S11399,2025-12-14,Victor Chukwu,Male,Nigeria,Clothing,Jeans,6,28000,Card
+S11400,2025-07-24,Joy Emmanuel,Male,Nigeria,Electronics,Smartphone,8,280000,Cash
+S11401,2025-07-16,Michael James,Male,Nigeria,Groceries,Sugar,5,18000,Mobile Money
+S11402,2025-04-14,Sarah Ahmed,Female,Nigeria,Furniture,Office Chair,4,95000,Card
+S11403,2025-04-24,Victor Chukwu,Male,United States,Furniture,Desk,5,150000,Cash
+S11404,2025-11-01,Fatima Ibrahim,Male,Nigeria,Groceries,Rice,6,85000,Mobile Money
+S11405,2025-01-11,Victor Chukwu,Female,United States,Furniture,Office Chair,5,95000,Mobile Money
+S11406,2025-07-16,Sarah Ahmed,Female,United States,Furniture,Bookshelf,4,85000,Card
+S11407,2025-08-07,Grace Musa,Male,United Kingdom,Electronics,Tablet,5,180000,Bank Transfer
+S11408,2025-11-17,John Williams,Female,United States,Furniture,Office Chair,5,95000,Cash
+S11409,2025-02-11,Fatima Ibrahim,Male,South Africa,Electronics,Tablet,8,180000,Cash
+S11410,2025-03-01,David Okoro,Female,South Africa,Furniture,Office Chair,9,95000,Card
+S11411,2025-12-07,Fatima Ibrahim,Female,Nigeria,Furniture,Office Chair,8,95000,Card
+S11412,2025-11-14,Anthony Brown,Male,Ghana,Groceries,Sugar,3,18000,Card
+S11413,2025-08-25,David Okoro,Male,United States,Electronics,Smartphone,9,280000,Mobile Money
+S11414,2025-03-11,David Okoro,Female,Kenya,Groceries,Rice,1,85000,Bank Transfer
+S11415,2025-09-10,Daniel Adeyemi,Male,United Kingdom,Electronics,Smartphone,8,280000,Cash
+S11416,2025-05-22,Blessing Okafor,Female,United States,Electronics,Smartphone,7,280000,Cash
+S11417,2025-06-11,Aisha Bello,Female,United Kingdom,Furniture,Bookshelf,6,85000,Bank Transfer
+S11418,2025-07-05,Michael James,Male,Ghana,Furniture,Bookshelf,6,85000,Cash
+S11419,2025-10-24,Daniel Adeyemi,Male,Kenya,Groceries,Cooking Oil,9,32000,Bank Transfer
+S11420,2025-08-05,Mary Johnson,Female,United States,Clothing,Jacket,2,70000,Cash
+S11421,2025-05-04,Hauwa Sule,Male,United Kingdom,Clothing,Jacket,8,70000,Mobile Money
+S11422,2025-07-16,Ruth Adams,Female,Ghana,Groceries,Sugar,6,18000,Card
+S11423,2025-08-04,Blessing Okafor,Male,United States,Groceries,Cooking Oil,4,32000,Mobile Money
+S11424,2025-08-07,John Williams,Male,Kenya,Furniture,Bookshelf,8,85000,Card
+S11425,2025-11-30,Ruth Adams,Male,United Kingdom,Furniture,Table,4,120000,Mobile Money
+S11426,2025-04-14,Blessing Okafor,Female,Nigeria,Clothing,Sneakers,2,55000,Mobile Money
+S11427,2025-01-01,Esther Eze,Male,South Africa,Furniture,Desk,1,150000,Card
+S11428,2025-08-31,Victor Chukwu,Female,United States,Electronics,Headphones,2,45000,Card
+S11429,2025-09-11,Ibrahim Yusuf,Male,Ghana,Electronics,Headphones,9,45000,Mobile Money
+S11430,2025-08-27,Sarah Ahmed,Male,United States,Furniture,Bookshelf,5,85000,Cash
+S11431,2025-05-29,David Okoro,Male,United States,Groceries,Sugar,6,18000,Mobile Money
+S11432,2025-09-26,Michael James,Female,United States,Furniture,Table,3,120000,Card
+S11433,2025-05-01,Ruth Adams,Female,United States,Electronics,Smartphone,8,280000,Mobile Money
+S11434,2025-08-09,Hauwa Sule,Female,Nigeria,Groceries,Cereal,4,9500,Bank Transfer
+S11435,2025-04-11,Ruth Adams,Female,Kenya,Furniture,Bookshelf,6,85000,Mobile Money
+S11436,2025-09-01,David Okoro,Male,South Africa,Groceries,Cooking Oil,9,32000,Bank Transfer
+S11437,2025-09-29,Michael James,Male,Nigeria,Groceries,Rice,5,85000,Bank Transfer
+S11438,2025-04-20,Ibrahim Yusuf,Female,Kenya,Furniture,Table,10,120000,Cash
+S11439,2025-06-04,Daniel Adeyemi,Male,United Kingdom,Clothing,Sneakers,9,55000,Card
+S11440,2025-05-13,Aisha Bello,Female,Nigeria,Electronics,Laptop,6,450000,Card
+S11441,2025-12-03,Hauwa Sule,Male,South Africa,Groceries,Cereal,5,9500,Cash
+S11442,2025-05-12,Anthony Brown,Female,Nigeria,Electronics,Headphones,3,45000,Bank Transfer
+S11443,2025-05-05,Samuel Obi,Male,Kenya,Electronics,Tablet,3,180000,Bank Transfer
+S11444,2025-01-16,Grace Musa,Female,Nigeria,Groceries,Cereal,7,9500,Cash
+S11445,2025-08-27,Aisha Bello,Male,Ghana,Groceries,Cooking Oil,10,32000,Mobile Money
+S11446,2025-10-17,Anthony Brown,Male,South Africa,Clothing,Jeans,3,28000,Mobile Money
+S11447,2025-01-11,Grace Musa,Male,Nigeria,Groceries,Cooking Oil,7,32000,Cash
+S11448,2025-08-28,David Okoro,Female,United States,Furniture,Desk,5,150000,Mobile Money
+S11449,2025-04-22,Hauwa Sule,Male,Kenya,Clothing,Sneakers,4,55000,Bank Transfer
+S11450,2025-04-18,Emeka Nwosu,Female,United Kingdom,Furniture,Table,8,120000,Bank Transfer
+S11451,2025-08-21,Michael James,Female,South Africa,Electronics,Smartphone,6,280000,Card
+S11452,2025-03-01,Joy Emmanuel,Female,United States,Furniture,Office Chair,2,95000,Bank Transfer
+S11453,2025-06-16,Anthony Brown,Female,United States,Furniture,Desk,4,150000,Cash
+S11454,2025-12-10,Esther Eze,Female,Nigeria,Groceries,Sugar,9,18000,Bank Transfer
+S11455,2025-11-20,Sarah Ahmed,Female,South Africa,Groceries,Sugar,7,18000,Bank Transfer
+S11456,2025-03-12,Samuel Obi,Female,United States,Electronics,Tablet,1,180000,Bank Transfer
+S11457,2025-11-15,Ruth Adams,Male,United Kingdom,Furniture,Table,4,120000,Cash
+S11458,2025-12-19,Aisha Bello,Female,Nigeria,Groceries,Cooking Oil,6,32000,Bank Transfer
+S11459,2025-07-12,Esther Eze,Female,United Kingdom,Electronics,Laptop,4,450000,Card
+S11460,2025-03-08,Ibrahim Yusuf,Female,Kenya,Furniture,Desk,7,150000,Card
+S11461,2025-07-19,Aisha Bello,Male,United Kingdom,Clothing,T-Shirt,7,12000,Mobile Money
+S11462,2025-10-24,Michael James,Male,Ghana,Electronics,Smartphone,4,280000,Cash
+S11463,2025-11-10,Sarah Ahmed,Male,United States,Groceries,Rice,5,85000,Cash
+S11464,2025-03-31,Peter Osei,Male,Nigeria,Electronics,Laptop,9,450000,Card
+S11465,2025-09-15,Emeka Nwosu,Female,Kenya,Electronics,Headphones,7,45000,Cash
+S11466,2025-11-08,Esther Eze,Male,Kenya,Groceries,Sugar,10,18000,Mobile Money
+S11467,2025-01-19,Grace Musa,Male,South Africa,Furniture,Bookshelf,9,85000,Bank Transfer
+S11468,2025-04-20,Samuel Obi,Female,Nigeria,Furniture,Bookshelf,8,85000,Mobile Money
+S11469,2025-05-29,Samuel Obi,Male,South Africa,Groceries,Rice,4,85000,Mobile Money
+S11470,2025-11-01,Michael James,Female,Ghana,Groceries,Cereal,2,9500,Cash
+S11471,2025-10-04,Ruth Adams,Male,Nigeria,Clothing,Jeans,3,28000,Mobile Money
+S11472,2025-07-29,Anthony Brown,Female,South Africa,Furniture,Desk,5,150000,Bank Transfer
+S11473,2025-02-20,Ruth Adams,Female,Nigeria,Clothing,T-Shirt,5,12000,Card
+S11474,2025-08-01,Samuel Obi,Female,South Africa,Furniture,Table,8,120000,Cash
+S11475,2025-11-04,Sarah Ahmed,Male,Nigeria,Electronics,Headphones,3,45000,Cash
+S11476,2025-10-30,Daniel Adeyemi,Male,South Africa,Clothing,Jeans,8,28000,Card
+S11477,2025-01-17,Sarah Ahmed,Male,Kenya,Furniture,Desk,2,150000,Mobile Money
+S11478,2025-09-29,Blessing Okafor,Female,United Kingdom,Groceries,Sugar,3,18000,Card
+S11479,2025-05-28,Hauwa Sule,,South Africa,Groceries,Cooking Oil,8,32000,Card
+S11480,2025-02-06,Hauwa Sule,Female,Nigeria,Groceries,Cooking Oil,6,32000,Mobile Money
+S11481,2025-02-18,Grace Musa,Male,Kenya,Clothing,Jeans,4,28000,Card
+S11482,2025-08-25,Daniel Adeyemi,Male,United Kingdom,Electronics,Headphones,8,45000,Card
+S11483,2025-01-12,John Williams,Male,Ghana,Electronics,Tablet,5,180000,Bank Transfer
+S11484,2025-07-11,Emeka Nwosu,Female,Kenya,Furniture,Bookshelf,9,85000,Card
+S11485,2025-10-01,Esther Eze,Female,Ghana,Electronics,Smartphone,5,280000,Cash
+S11486,2025-01-23,Ruth Adams,Female,United States,Clothing,Jacket,10,70000,Mobile Money
+S11487,2025-01-18,Samuel Obi,Male,Nigeria,Clothing,Jeans,10,28000,Card
+S11488,2025-08-08,Aisha Bello,Female,Nigeria,Clothing,Jeans,1,28000,Card
+S11489,2025-08-07,Blessing Okafor,Female,United Kingdom,Furniture,Table,2,120000,Card
+S11490,2025-08-02,Anthony Brown,Female,Kenya,Furniture,Table,9,120000,Bank Transfer
+S11491,2025-03-01,Fatima Ibrahim,Male,South Africa,Electronics,Smartphone,9,280000,Mobile Money
+S11492,2025-11-21,Victor Chukwu,Female,United States,Furniture,Bookshelf,6,85000,Card
+S11493,2025-04-29,John Williams,Female,Ghana,Electronics,Tablet,10,180000,Card
+S11494,2025-08-03,Aisha Bello,Male,South Africa,Furniture,Bookshelf,6,85000,Card
+S11495,2025-02-28,Daniel Adeyemi,Female,Kenya,Electronics,Tablet,9,180000,Cash
+S11496,2025-09-16,Anthony Brown,Female,Nigeria,Groceries,Rice,5,85000,Bank Transfer
+S11497,2025-02-09,Emeka Nwosu,Female,South Africa,Electronics,Laptop,3,450000,Mobile Money
+S11498,2025-02-07,Aisha Bello,Male,United States,Electronics,Laptop,3,450000,Card
+S11499,2025-10-30,David Okoro,Female,United States,Electronics,Headphones,1,45000,Bank Transfer
+S11500,2025-03-31,Emeka Nwosu,Male,Kenya,Electronics,Tablet,6,180000,Card
