@@ -31,4 +31,4 @@ d. Data Filtering
 e. Database Analysis
 f. Analytical Thinking
 
-Data Analytics & AI/ML Learner
+
